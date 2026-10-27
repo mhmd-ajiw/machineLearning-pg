@@ -1,12 +1,12 @@
 import pandas as pd
-import matplotlib.pyplot as plt
+from scipy.stats import zscore
+import numpy as np
 
-# Boxplot method for find Outlier
-data_tb = {
-    'tinggi badan': [90, 160, 157, 170, 163, 153, 175, 166, 200, 280]
+dataBB = {
+    'bb':[45, 56, 60, 40, 66, 54, 50, 90]
 }
-df_tb = pd.DataFrame(data_tb)
+df_bb = pd.DataFrame(dataBB)
 
-plt.boxplot(df_tb['tinggi badan'])
-plt.title("Boxplot Tinggi Badan")
-plt.show()
+df_bb['Zscore'] = zscore(df_bb['bb'])
+outliers = df_bb[np.abs(df_bb['Zscore']) > 3]
+print(outliers)
