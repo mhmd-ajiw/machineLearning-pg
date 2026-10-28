@@ -1,18 +1,17 @@
 import pandas as pd
+from sklearn.ensemble import IsolationForest
 from scipy.stats import zscore
-import numpy as np
 
-# Find Outlier with Z-Score method
-dataBB = {
-    'bb':[45, 56, 60, 40, 66, 54, 50, 90]
-}
-df_bb = pd.DataFrame(dataBB)
+# Find Outlier with Isolation Forest method
+data = {'Nilai': [34, 56, 44, 67, 12, 90, 100, 72, 68]}
+df = pd.DataFrame(data)
 
-df_bb['Zscore'] = zscore(df_bb['bb'])
-outliers = df_bb[np.abs(df_bb['Zscore']) > 3]
-print(outliers)
+df['Z-Score'] = zscore(df['Nilai'])
 
-# Alasan output terminal kosong bukan karena codenya salah, tapi karena semua nilai data
-# masih dalam rentang yang ditentukan. Jadi Z-Score menganggap semua nilai dalam rentang
-# -3 sampai 3 itu nomal, jika melebihi atau kurang maka dianggap Outlier.
-# 90 disini masih dalam perhitugan makanya nilai output kosong.
+model = IsolationForest(contamination=0.2, random_state=42)
+df['Outlier_IF'] = model.fit_predict(df[['Nilai']])
+print(df)
+
+# metode ini intinya menganggap nilai yang terlalu jauh rentannya sebagai Outlier
+# misalkan ada gerombolan yang nilainya berdekatan, maka outlier adalah nilai
+# yang jauh dari gerombolan tersebut.
