@@ -1,14 +1,14 @@
 import pandas as pd
-from sklearn.preprocessing import MinMaxScaler
+from sklearn.preprocessing import StandardScaler
 
-# Normalization data
+# Stadarizarion data
 data = {'Number': [3, 56, 20, 15, 9, 10, 10, 71]}
 df = pd.DataFrame(data)
 
-scaler = MinMaxScaler()
-df['Hasil Normalisasi'] = scaler.fit_transform(df[['Number']])
+scaler = StandardScaler()
+df['Nilai Standarisasi'] = scaler.fit_transform(df[['Number']])
 print(df)
 
-# berguna untuk mengubah skala fitur data, biasanya 0 sampai 1
-# digunakan saat data tidak memiliki distribusi normal
-# menggunakan algoritma sensitif (KNN atau Neutral Networks)
+# mengubah data sehingga memiliki mean 0 dan standar deviasi 1
+# digunakan saat data mendekatik distribusi normal
+# cocok untuk algoritma Logistic Regression, SVM, dan Linear Regression
