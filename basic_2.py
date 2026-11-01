@@ -7,8 +7,8 @@ data = {
 }
 df = pd.DataFrame(data)
 
-plt.bar(df['umur'], df['tb'])
-plt.title('Grafik Bar Data Tinggi Badan')
+plt.scatter(df['umur'], df['tb'])
+plt.title('Scatter Plot')
 plt.xlabel('Umur')
 plt.ylabel('Tinggi Badan')
 plt.grid(True)
