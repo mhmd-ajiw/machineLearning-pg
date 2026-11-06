@@ -4,4 +4,4 @@
 # folder
 data dump/*
 !data dump/.gitkeep
-!data sump/dataset_performa_mahasiswa.csv
+!data dump/dataset_performa_mahasiswa.csv
