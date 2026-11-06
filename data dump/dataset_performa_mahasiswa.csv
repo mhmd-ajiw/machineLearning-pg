@@ -1,0 +1,1016 @@
+id_mahasiswa,jenis_kelamin,usia,jurusan,semester,jam_belajar_per_minggu,persentase_kehadiran,ipk_sebelumnya,jam_tidur_per_hari,jam_sosmed_per_hari,kerja_paruh_waktu,pendapatan_ortu_juta,jarak_ke_kampus_km,tempat_tinggal,nilai_akhir,status_kelulusan
+MHS0682,Perempuan,20,Teknik Informatika,6,14.7,100.0,3.54,7.9,3.7,Tidak,3.4,4.6,Rumah Orang Tua,72.6,Lulus
+MHS0025,Perempuan,21,Statistika,7,9.7,62.8,3.76,,3.4,Tidak,4.1,15.0,Rumah Orang Tua,65.4,Lulus
+MHS0622,Laki-laki,19,Sistem Informasi,3,10.4,65.9,3.94,,4.5,Tidak,12.0,0.2,Kos,62.8,Lulus
+MHS0100,Laki-laki,21,Teknik Elektro,9,20.6,89.7,3.47,6.8,4.7,Tidak,8.7,1.1,Asrama,88.5,Lulus
+MHS0285,Perempuan,20,Matematika,5,13.2,94.2,2.84,8.3,1.3,Tidak,,13.4,Rumah Orang Tua,70.6,Lulus
+MHS0692,Perempuan,23,Teknik Elektro,11,8.0,73.6,3.09,5.5,0.8,Tidak,5.2,3.0,Rumah Orang Tua,62.4,Lulus
+MHS0745,Perempuan,19,Sistem Informasi,5,19.4,90.0,,6.4,0.8,Tidak,6.5,1.6,Kos,85.2,Lulus
+MHS0309,Laki-laki,20,Teknik Informatika,7,14.7,56.1,3.49,6.1,0.9,Tidak,6.4,,Kos,66.4,Lulus
+MHS0770,Perempuan,20,Matematika,5,7.7,92.3,2.52,8.3,3.6,Tidak,2.7,2.4,Rumah Orang Tua,56.2,Tidak Lulus
+MHS0436,Perempuan,18,Teknik Informatika,3,13.0,81.7,3.8,,3.3,Ya,7.4,0.2,Rumah Orang Tua,69.1,Lulus
+MHS0927,Laki-laki,22,Teknik Informatika,9,11.7,89.7,3.29,5.5,1.6,Tidak,7.7,3.9,Rumah Orang Tua,65.1,Lulus
+MHS0164,Laki-laki,21,Teknik Informatika,8,10.6,83.9,2.87,5.9,0.5,Tidak,9.1,3.4,Rumah Orang Tua,78.1,Lulus
+MHS0233,Laki-laki,20,Teknik Elektro,5,6.0,75.4,,7.1,6.1,Tidak,12.7,2.3,Asrama,61.2,Lulus
+MHS0943,Laki-laki,21,Teknik Informatika,8,20.7,75.7,3.12,6.7,1.0,Ya,2.3,11.0,Kos,69.9,Lulus
+MHS0919,Perempuan,18,Sistem Informasi,1,14.3,79.1,2.52,7.6,3.7,Ya,5.5,0.1,Rumah Orang Tua,53.2,Tidak Lulus
+MHS0169,Perempuan,21,Sistem Informasi,9,18.5,82.8,3.29,5.3,2.0,Ya,6.5,8.0,Asrama,81.2,Lulus
+MHS0958,Laki-laki,20,Sistem Informasi,6,12.9,81.3,2.94,8.5,2.5,Tidak,5.5,1.2,Rumah Orang Tua,74.5,Lulus
+MHS0660,Laki-laki,18,Sistem Informasi,1,15.9,55.6,3.56,5.3,4.4,Tidak,3.6,1.5,Kos,66.2,Lulus
+MHS0366,Perempuan,21,Sistem Informasi,8,14.9,71.1,2.79,7.1,3.1,Tidak,9.5,0.1,Kos,62.2,Lulus
+MHS0257,Perempuan,22,Statistika,9,11.1,84.8,,6.0,2.2,Tidak,7.4,2.8,Asrama,65.0,Lulus
+MHS0154,Laki-laki,19,Matematika,3,9.0,81.0,2.99,6.2,5.4,Tidak,3.2,6.3,Kos,58.7,Tidak Lulus
+MHS0917,Perempuan,20,Teknik Informatika,6,14.0,97.1,2.85,4.7,7.4,Tidak,,15.3,Kos,67.0,Lulus
+MHS0686,Laki-laki,21,Sistem Informasi,7,16.6,100.0,3.25,7.5,2.7,Ya,5.4,0.9,Rumah Orang Tua,78.6,Lulus
+MHS0726,Laki-laki,22,Teknik Informatika,11,17.3,73.9,3.36,6.1,6.0,Tidak,7.2,3.9,Rumah Orang Tua,65.2,Lulus
+MHS0990,Laki-laki,20,Statistika,5,9.3,82.9,2.61,7.2,2.2,Tidak,9.9,0.8,Rumah Orang Tua,56.8,Tidak Lulus
+MHS0298,Laki-laki,21,Statistika,9,29.1,87.7,3.2,4.9,5.9,Tidak,5.8,9.9,Rumah Orang Tua,82.6,Lulus
+MHS0095,Perempuan,19,Sistem Informasi,3,6.5,82.9,2.48,7.3,8.1,Tidak,6.5,0.3,Kos,45.6,Tidak Lulus
+MHS0879,Perempuan,19,Matematika,4,10.7,100.0,3.11,7.6,2.5,Ya,,5.2,Rumah Orang Tua,74.9,Lulus
+MHS0061,Perempuan,21,Matematika,7,6.9,82.2,,6.5,2.3,Tidak,6.7,22.9,Rumah Orang Tua,61.8,Lulus
+MHS0010,Laki-laki,19,Sistem Informasi,5,16.1,85.8,3.18,7.9,1.4,Tidak,8.1,2.5,Kos,67.0,Lulus
+MHS0756,Perempuan,20,Teknik Informatika,5,12.5,82.4,3.01,6.2,2.4,Tidak,4.5,1.2,Rumah Orang Tua,63.8,Lulus
+MHS0786,Perempuan,19,Sistem Informasi,3,9.1,72.7,3.37,6.5,5.0,Ya,3.8,12.3,Kos,60.8,Lulus
+MHS0737,Perempuan,19,Teknik Informatika,4,12.9,69.6,3.12,6.4,3.1,Tidak,6.0,5.7,Rumah Orang Tua,64.3,Lulus
+MHS0026,Laki-laki,21,Teknik Informatika,9,6.4,81.6,2.99,7.8,3.2,Ya,9.8,3.9,Kos,52.4,Tidak Lulus
+MHS0851,Laki-laki,21,Teknik Informatika,7,14.0,88.4,2.41,9.4,1.0,Tidak,10.5,4.9,Kos,62.9,Lulus
+MHS0358,Laki-laki,22,Statistika,11,8.1,74.8,3.71,6.8,3.8,Tidak,12.2,8.4,Rumah Orang Tua,70.9,Lulus
+MHS0675,Perempuan,20,Matematika,7,15.6,93.9,2.5,6.2,3.1,Tidak,14.5,11.4,Rumah Orang Tua,69.9,Lulus
+MHS0229,Perempuan,19,Matematika,4,12.9,86.7,3.43,3.1,1.3,Ya,4.6,3.3,Asrama,68.2,Lulus
+MHS0501,Perempuan,21,Statistika,9,16.4,100.0,3.0,5.5,7.5,Ya,24.0,2.3,Rumah Orang Tua,56.1,Tidak Lulus
+MHS0499,Laki-laki,19,Sistem Informasi,3,12.1,79.1,3.68,6.4,2.2,Tidak,12.2,5.6,Kos,68.0,Lulus
+MHS0578,Perempuan,21,Matematika,9,14.2,65.4,3.28,6.7,0.9,Tidak,2.5,0.1,Rumah Orang Tua,64.1,Lulus
+MHS0876,Perempuan,19,Teknik Elektro,4,28.2,83.3,3.1,6.1,0.5,Tidak,,19.3,Kos,75.1,Lulus
+MHS0139,Laki-laki,22,Statistika,9,6.8,100.0,2.99,6.9,5.1,Ya,18.2,0.8,Kos,59.7,Tidak Lulus
+MHS0172,Perempuan,24,Sistem Informasi,13,13.3,86.7,3.61,5.9,2.7,Tidak,27.2,0.2,Kos,70.3,Lulus
+MHS0794,Perempuan,20,Teknik Informatika,7,4.7,78.5,2.31,6.8,3.4,Ya,5.9,2.2,Rumah Orang Tua,49.2,Tidak Lulus
+MHS0918,Perempuan,19,Teknik Informatika,5,4.5,82.4,2.51,8.1,1.6,Ya,12.9,4.9,Rumah Orang Tua,48.9,Tidak Lulus
+MHS0014,Perempuan,20,Statistika,6,3.3,73.9,3.06,4.0,1.0,Tidak,11.6,1.0,Rumah Orang Tua,56.7,Tidak Lulus
+MHS0424,Laki-laki,21,Teknik Informatika,7,8.8,90.8,3.3,7.5,2.4,Tidak,3.4,1.5,Rumah Orang Tua,68.0,Lulus
+MHS0683,Perempuan,20,Teknik Informatika,5,1.1,85.7,2.86,6.3,4.1,Ya,5.2,4.8,Asrama,50.2,Tidak Lulus
+MHS0217,Laki-laki,19,Teknik Informatika,3,8.4,86.4,3.35,5.9,3.5,Tidak,5.3,0.6,Rumah Orang Tua,61.7,Lulus
+MHS0735,Perempuan,18,Teknik Informatika,3,6.8,62.1,3.09,6.2,2.6,Tidak,,36.3,Kos,48.5,Tidak Lulus
+MHS0109,Perempuan,21,Teknik Informatika,7,13.1,73.4,2.93,6.1,3.1,Tidak,7.9,3.3,Kos,63.4,Lulus
+MHS0548,Perempuan,22,Teknik Informatika,11,21.4,100.0,3.63,8.2,3.9,Tidak,9.2,1.1,Kos,87.1,Lulus
+MHS0114,Perempuan,21,Matematika,7,4.2,68.1,3.61,6.9,2.0,Ya,6.9,29.1,Rumah Orang Tua,49.6,Tidak Lulus
+MHS0965,Perempuan,22,Teknik Elektro,9,9.9,99.8,3.34,6.6,0.7,Tidak,,1.1,Kos,82.6,Lulus
+MHS0438,Laki-laki,18,Sistem Informasi,2,11.3,97.8,3.26,7.5,3.7,Tidak,5.7,4.3,Asrama,74.1,Lulus
+MHS0327,Laki-laki,21,statistika,9,14.5,73.2,3.07,5.0,3.6,Tidak,3.2,0.2,Kos,71.3,Lulus
+MHS0709,Perempuan,18,Sistem Informasi,2,4.3,80.3,2.98,5.5,4.1,Tidak,13.5,2.0,Kos,47.1,Tidak Lulus
+MHS0446,Perempuan,20,Statistika,6,14.6,97.9,,5.5,3.0,Tidak,3.0,2.6,Rumah Orang Tua,69.3,Lulus
+MHS0566,Laki-laki,20,Matematika,5,14.1,76.2,3.4,6.3,0.3,Tidak,9.5,0.8,Kos,72.4,Lulus
+MHS0803,Laki-laki,21,Teknik Elektro,8,16.4,82.3,2.74,7.4,3.2,Ya,5.7,3.2,Asrama,70.4,Lulus
+MHS0346,Perempuan,20,Statistika,6,13.1,,3.04,4.8,3.7,Tidak,2.7,2.6,Rumah Orang Tua,68.5,Lulus
+MHS0448,Perempuan,21,Matematika,8,22.3,100.0,3.64,6.3,0.6,Tidak,4.5,1.8,Rumah Orang Tua,94.9,Lulus
+MHS0111,Laki-laki,20,Sistem Informasi,5,11.0,81.5,3.56,,1.8,Tidak,5.0,3.7,Kos,74.8,Lulus
+MHS0126,Perempuan,21,Sistem Informasi,7,20.7,93.8,3.9,6.2,2.8,Tidak,8.2,1.2,Kos,89.4,Lulus
+MHS0871,Laki-laki,20,Statistika,5,3.3,83.2,2.88,5.9,1.4,Tidak,2.4,5.8,Rumah Orang Tua,62.9,Lulus
+MHS0035,Laki-laki,19,Sistem Informasi,5,6.1,59.7,3.05,8.0,3.1,Ya,8.8,10.7,Asrama,51.6,Tidak Lulus
+MHS0054,Laki-laki,22,Matematika,9,7.7,69.3,2.61,7.1,2.4,Ya,5.8,2.4,Kos,53.9,Tidak Lulus
+MHS0766,Laki-laki,21,Teknik Informatika,9,11.5,82.8,3.36,5.2,1.6,Tidak,7.6,2.9,Rumah Orang Tua,75.8,Lulus
+MHS0949,Laki-laki,20,Teknik Elektro ,7,15.5,89.5,3.39,6.9,2.6,Ya,,1.6,Kos,65.1,Lulus
+MHS0597,Laki-laki,20,Statistika,7,10.8,94.8,2.67,8.1,3.0,Tidak,4.0,1.2,Rumah Orang Tua,59.6,Tidak Lulus
+MHS0238,Laki-laki,19,Statistika ,3,7.7,84.0,2.19,6.7,4.0,Ya,7.2,1.0,Kos,57.1,Tidak Lulus
+MHS0325,Laki-laki,18,Statistika,3,29.9,60.2,3.09,7.3,0.8,Tidak,5.6,1.0,Asrama,94.2,Lulus
+MHS0840,Perempuan,22,Sistem Informasi,9,11.2,87.7,3.57,6.7,0.7,Tidak,,3.0,Asrama,75.9,Lulus
+MHS0385,Perempuan,22,Sistem Informasi,11,9.1,70.5,3.51,5.0,4.4,Tidak,2.6,1.2,Rumah Orang Tua,55.7,Tidak Lulus
+MHS0319,Perempuan,22,Teknik Informatika,11,8.9,91.2,2.4,5.7,7.4,Ya,3.4,3.1,Rumah Orang Tua,56.3,Tidak Lulus
+MHS0653,Laki-laki,20,Matematika,5,29.6,83.0,3.76,8.8,2.8,Tidak,1.3,1.5,Kos,96.0,Lulus
+MHS0880,Perempuan,21,Matematika,7,13.4,73.4,2.79,5.7,3.2,Tidak,8.0,4.9,Rumah Orang Tua,59.1,Tidak Lulus
+MHS0300,Laki-laki,22,Matematika,11,11.5,91.6,3.55,6.6,1.8,Tidak,16.3,6.4,Kos,73.8,Lulus
+MHS0740,Perempuan,22,Sistem Informasi,11,28.1,74.4,3.31,8.1,2.6,Ya,7.1,0.5,Rumah Orang Tua,89.7,Lulus
+MHS0432,Perempuan,18,Statistika,2,8.6,64.5,2.43,,1.3,Ya,6.3,4.1,Kos,43.9,Tidak Lulus
+MHS0418,Perempuan,20,Statistika,5,13.4,64.9,3.02,6.2,4.2,Tidak,8.5,1.8,Rumah Orang Tua,58.3,Tidak Lulus
+MHS0650,Perempuan,22,Teknik Informatika,10,9.3,66.0,3.46,7.2,0.7,Ya,7.1,0.7,Kos,64.7,Lulus
+MHS0668,Laki-laki,23,Teknik Elektro,12,12.8,73.8,3.04,6.0,0.1,Tidak,21.7,5.1,Kos,83.2,Lulus
+MHS0944,Laki-laki,19,Sistem Informasi,3,6.3,77.8,3.03,6.4,2.4,Tidak,11.0,1.6,Kos,58.6,Tidak Lulus
+MHS0725,Laki-laki,21,Teknik Informatika,8,6.0,75.8,3.71,6.4,0.5,Tidak,,,Rumah Orang Tua,67.7,Lulus
+MHS0713,Perempuan,20,Statistika,5,9.3,90.8,2.86,,3.7,Tidak,7.8,,Kos,68.2,Lulus
+MHS1000,Perempuan,18,Teknik Informatika,1,17.4,89.7,3.04,6.0,1.2,Tidak,9.7,3.0,Kos,74.5,Lulus
+MHS0732,Laki-laki,18,Teknik Informatika,2,10.0,79.5,3.09,7.6,3.2,Tidak,5.1,16.1,Rumah Orang Tua,72.9,Lulus
+MHS0718,Perempuan,20,teknik informatika,7,4.1,99.4,3.16,8.1,3.6,Tidak,7.8,8.4,Rumah Orang Tua,60.2,Lulus
+MHS0205,Laki-laki,19,TEKNIK INFORMATIKA,5,10.5,86.8,3.26,6.7,4.0,Tidak,5.1,8.9,Kos,70.5,Lulus
+MHS0572,Perempuan,20,Statistika,6,18.2,78.2,3.13,4.8,0.6,Ya,12.2,2.4,Rumah Orang Tua,66.2,Lulus
+MHS0925,Laki-laki,21,Teknik Informatika,7,7.8,86.3,3.59,4.6,5.0,Tidak,8.2,8.5,Kos,58.4,Tidak Lulus
+MHS0243,P,21,Teknik Informatika,7,4.7,94.0,2.65,5.8,3.7,Tidak,3.7,8.0,Rumah Orang Tua,50.1,Tidak Lulus
+MHS0983,Perempuan,22,Statistika,10,9.5,,4.0,,2.9,Tidak,5.3,1.6,Kos,68.5,Lulus
+MHS0171,Laki-laki,21,Teknik Informatika,8,10.6,93.2,3.39,6.5,1.7,Tidak,3.9,,Rumah Orang Tua,72.7,Lulus
+MHS0579,Perempuan,21,Teknik Elektro,8,3.8,84.7,,6.8,2.8,Ya,11.1,8.0,Asrama,47.0,Tidak Lulus
+MHS0971,Laki-laki,22,Teknik Informatika,10,26.9,86.6,2.86,6.2,1.1,Tidak,9.0,3.4,Rumah Orang Tua,97.3,Lulus
+MHS0966,Laki-laki,19,Sistem Informasi,4,16.8,,3.19,8.1,1.8,Tidak,5.6,3.9,Rumah Orang Tua,67.7,Lulus
+MHS0939,Laki-laki,20,Teknik Elektro,7,7.2,94.9,2.75,5.5,3.9,Ya,4.5,7.9,Rumah Orang Tua,55.2,Tidak Lulus
+MHS0206,Laki-laki,20,Teknik Informatika,5,16.8,30.0,2.99,4.5,3.9,Tidak,3.7,7.7,Kos,64.5,Lulus
+MHS0510,Perempuan,20,teknik informatika,6,32.2,73.7,,,1.1,Tidak,6.4,2.8,Kos,86.3,Lulus
+MHS0165,Laki-laki,22,Matematika,9,17.2,75.2,3.48,7.2,3.3,Tidak,7.4,5.1,Asrama,79.7,Lulus
+MHS0263,Laki-laki,20,Sistem Informasi,6,6.2,70.1,2.87,5.6,6.7,Tidak,3.2,5.9,Asrama,51.3,Tidak Lulus
+MHS0027,Perempuan,20,Sistem Informasi,7,12.4,97.6,2.85,7.6,3.0,Tidak,5.0,0.4,Kos,65.5,Lulus
+MHS0058,Laki-laki,21,Matematika,7,3.8,70.2,2.86,5.8,3.2,Tidak,4.0,1.4,Rumah Orang Tua,48.6,Tidak Lulus
+MHS0047,Laki-laki,20,Sistem Informasi,5,10.0,86.5,4.0,6.6,4.5,Tidak,2.2,9.1,Kos,69.6,Lulus
+MHS0278,Laki-laki,19,Sistem Informasi,5,17.9,59.8,3.54,7.1,1.2,Tidak,11.2,13.9,Kos,71.0,Lulus
+MHS0987,Laki-laki,22,Sistem Informasi,11,13.7,68.4,1.82,7.5,3.5,Tidak,17.9,4.8,Kos,65.7,Lulus
+MHS0906,Laki-laki,18,Matematika,2,9.7,76.8,2.82,6.7,1.5,Ya,7.4,6.1,Rumah Orang Tua,65.6,Lulus
+MHS0099,Perempuan,25,Teknik Informatika,14,5.1,90.1,3.46,3.5,2.8,Tidak,7.0,0.1,Asrama,61.5,Lulus
+MHS0593,Perempuan,23,Sistem Informasi,13,7.6,71.6,3.07,5.5,6.1,Tidak,5.3,7.6,Asrama,62.1,Lulus
+MHS0721,Laki-laki,21,Sistem Informasi,8,6.6,100.0,2.59,6.9,1.1,Tidak,8.4,9.4,Kos,67.8,Lulus
+MHS0651,Laki-laki,19,Sistem Informasi,5,13.0,91.5,2.9,4.9,5.2,Tidak,28.1,0.6,Asrama,58.3,Tidak Lulus
+MHS0730,Laki-laki,18,Sistem Informasi,3,13.7,72.4,3.34,6.2,5.8,Tidak,5.3,2.8,Asrama,65.5,Lulus
+MHS0147,Perempuan,18,Sistem Informasi,1,15.5,80.5,2.92,7.8,5.1,Tidak,4.4,4.8,Kos,71.0,Lulus
+MHS0792,Laki-laki,22,Sistem Informasi,9,6.9,84.5,2.81,5.3,0.7,Tidak,10.4,1.1,Rumah Orang Tua,56.3,Tidak Lulus
+MHS0044,Perempuan,20,Sistem Informasi,7,22.7,87.8,2.6,6.9,2.6,Ya,10.9,27.8,Rumah Orang Tua,72.0,Lulus
+MHS0696,Perempuan,19,Sistem Informasi,5,25.7,68.5,2.67,5.2,2.6,Tidak,7.0,0.4,Rumah Orang Tua,80.8,Lulus
+MHS0664,Laki-laki,19,Teknik Informatika,4,24.8,65.5,3.14,6.3,3.9,Tidak,12.4,0.1,Rumah Orang Tua,73.5,Lulus
+MHS0064,Perempuan,21,Statistika,8,23.7,91.6,2.91,6.8,2.8,Tidak,3.6,2.8,Rumah Orang Tua,76.8,Lulus
+MHS0952,Laki-laki,22,Teknik Informatika,10,27.2,83.5,2.81,7.9,5.4,Tidak,,3.9,Kos,82.8,Lulus
+MHS0631,Laki-laki,22,Teknik Elektro,11,9.9,67.6,3.26,6.6,0.7,Tidak,8.7,8.8,Rumah Orang Tua,69.4,Lulus
+MHS0337,Laki-laki,22,Teknik Informatika,10,7.0,85.9,3.78,5.8,4.8,Tidak,17.2,2.3,Kos,67.6,Lulus
+MHS0039,Laki-laki,22,Teknik Informatika,11,9.3,88.7,3.6,6.8,5.9,Tidak,8.7,1.1,Kos,65.6,Lulus
+MHS0468,Laki-laki,23,Teknik Elektro,11,5.7,79.2,3.43,,1.8,Tidak,5.6,5.6,Rumah Orang Tua,61.2,Lulus
+MHS0558,Laki-laki,21,Sistem Informasi,7,11.8,65.2,2.34,6.9,1.8,Tidak,7.3,26.4,Kos,55.0,Tidak Lulus
+MHS0361,Perempuan,21,Teknik Elektro,9,5.0,67.8,2.46,6.2,0.6,Tidak,5.0,3.9,Kos,55.7,Tidak Lulus
+MHS0565,Perempuan,18,Matematika,2,12.9,80.1,2.56,6.3,2.4,Tidak,9.6,5.1,Rumah Orang Tua,60.1,Lulus
+MHS0223,Perempuan,21,Matematika,7,19.7,,2.86,6.9,1.2,Tidak,12.0,3.7,Kos,79.9,Lulus
+MHS0930,Laki-laki,20,Statistika,7,6.2,72.2,2.94,6.0,1.8,Ya,7.9,4.0,Kos,60.7,Lulus
+MHS0564,Perempuan,21,Matematika,9,15.1,88.8,3.26,6.6,3.7,Tidak,8.0,6.5,Kos,70.6,Lulus
+MHS0869,Perempuan,19,Teknik Informatika,3,23.1,75.4,3.96,6.2,1.7,Tidak,5.9,10.4,Asrama,78.0,Lulus
+MHS0356,Laki-laki,22,Sistem Informasi,11,21.6,84.0,3.1,5.2,4.5,Tidak,,1.0,Kos,72.2,Lulus
+MHS0789,Perempuan,18,Statistika,1,7.5,74.5,,6.4,0.9,Tidak,13.7,0.3,Asrama,62.8,Lulus
+MHS0306,Perempuan,17,Sistem Informasi,1,13.5,75.5,2.97,8.0,2.7,Ya,4.6,8.1,Rumah Orang Tua,55.8,Tidak Lulus
+MHS0141,Laki-laki,22,Sistem Informasi,10,12.7,87.4,3.26,5.5,1.0,Tidak,13.8,0.5,Kos,71.5,Lulus
+MHS0458,Laki-laki,18,Sistem Informasi,2,11.5,95.9,3.1,7.2,2.9,Ya,,0.2,Kos,64.7,Lulus
+MHS0972,Perempuan,22,Teknik Informatika,11,25.1,81.9,3.35,5.1,2.7,Ya,4.7,2.5,Kos,76.6,Lulus
+MHS0554,Laki-laki,22,Teknik Elektro,9,12.6,82.0,2.22,6.3,6.3,Tidak,2.9,0.1,Rumah Orang Tua,62.6,Lulus
+MHS0841,Laki-laki,21,Teknik Informatika,9,16.9,78.1,3.61,6.3,0.6,Ya,6.7,1.3,Asrama,75.1,Lulus
+MHS0811,L,20,Teknik Informatika,7,6.2,80.8,2.49,6.7,4.8,Tidak,3.9,4.6,Rumah Orang Tua,57.9,Tidak Lulus
+MHS0839,Perempuan,20,Sistem Informasi,5,18.1,75.2,,4.7,1.3,Tidak,4.8,1.4,Kos,65.8,Lulus
+MHS0062,Perempuan,20,Sistem Informasi,7,11.7,99.0,3.82,3.1,5.9,Ya,2.9,6.8,Kos,63.2,Lulus
+MHS0895,Laki-laki,22,Statistika,11,8.7,81.3,2.47,6.9,3.3,Ya,4.5,8.0,Kos,57.1,Tidak Lulus
+MHS0914,Perempuan,21,Teknik Elektro,8,10.5,60.0,3.64,6.3,2.1,Tidak,6.7,7.5,Rumah Orang Tua,62.8,Lulus
+MHS0512,Laki-laki,20,Statistika,5,12.3,81.8,3.14,5.6,1.8,Ya,5.5,0.5,Kos,63.0,Lulus
+MHS0922,Laki-laki,19,Statistika,4,4.4,72.3,3.0,5.8,3.5,Ya,9.6,0.2,Rumah Orang Tua,49.5,Tidak Lulus
+MHS0592,Laki-laki,20,Sistem Informasi,5,26.9,82.6,3.02,,3.9,Tidak,5.3,2.9,Kos,79.4,Lulus
+MHS0802,Perempuan,21,Sistem Informasi,8,3.3,91.1,2.88,8.4,1.7,Tidak,2.5,1.9,Rumah Orang Tua,56.4,Tidak Lulus
+MHS0603,Perempuan,22,Teknik Elektro,10,5.5,66.0,3.0,5.4,2.7,Tidak,7.4,0.9,Kos,51.5,Tidak Lulus
+MHS0814,Laki-laki,22,Matematika,11,18.6,79.1,3.64,6.1,1.2,Tidak,5.1,1.4,Rumah Orang Tua,81.2,Lulus
+MHS0254,Perempuan,21,Teknik Informatika,7,10.7,75.9,2.75,5.0,2.0,Tidak,7.7,1.7,Rumah Orang Tua,64.8,Lulus
+MHS0331,Perempuan,21,Statistika,7,7.1,95.4,2.64,4.2,1.6,Tidak,4.8,4.9,Asrama,53.6,Tidak Lulus
+MHS0369,Laki-laki,21,Sistem Informasi,7,13.0,95.5,3.39,5.9,3.0,Tidak,5.9,0.4,Kos,71.1,Lulus
+MHS0110,Laki-laki,20,Teknik Elektro,6,120.0,89.3,3.05,5.7,4.4,Tidak,13.7,6.1,Kos,86.3,Lulus
+MHS0790,Laki-laki,22,Matematika,11,12.4,96.6,2.55,6.2,4.3,Ya,8.4,8.3,Asrama,62.5,Lulus
+MHS0320,Perempuan,21,Teknik Elektro,8,18.7,95.6,3.78,,2.5,Tidak,5.4,3.0,Rumah Orang Tua,89.9,Lulus
+MHS0758,Perempuan,20,Teknik Elektro,7,13.3,69.0,3.1,8.4,1.0,Ya,10.2,4.6,Kos,64.5,Lulus
+MHS0626,Perempuan,19,Sistem Informasi,4,6.4,,3.32,5.3,1.9,Tidak,31.6,0.4,Rumah Orang Tua,64.3,Lulus
+MHS0149,Laki-laki,22,Sistem Informasi,9,8.6,92.4,2.7,3.5,1.8,Ya,14.9,4.2,Kos,51.9,Tidak Lulus
+MHS0687,Laki-laki,20,Sistem Informasi,6,8.7,97.7,3.28,3.7,1.1,Tidak,3.3,8.1,Kos,71.4,Lulus
+MHS0610,Laki-laki,22,Sistem Informasi,11,7.2,100.0,,6.7,1.2,Tidak,,1.9,Rumah Orang Tua,65.0,Lulus
+MHS0260,Perempuan,19,matematika,4,20.4,100.0,2.45,7.0,1.2,Tidak,4.5,11.2,Kos,69.1,Lulus
+MHS0535,Laki-laki,20,Teknik Informatika,6,23.0,71.1,,6.2,2.8,Ya,5.2,0.2,Kos,68.2,Lulus
+MHS0733,Perempuan,20,Teknik Informatika,5,14.5,100.0,,6.8,2.8,Ya,6.2,0.1,Rumah Orang Tua,80.5,Lulus
+MHS0500,Perempuan,20,Sistem Informasi,6,16.6,100.0,2.46,,4.1,Tidak,7.1,0.1,Kos,74.6,Lulus
+MHS0930,Laki-laki,20,Statistika,7,6.2,72.2,2.94,6.0,1.8,Ya,7.9,4.0,Kos,60.7,Lulus
+MHS0129,Perempuan,21,Teknik Informatika,8,7.1,90.6,3.0,6.7,3.9,Tidak,8.2,3.7,Kos,53.6,Tidak Lulus
+MHS0661,Laki-laki,20,Teknik Informatika,5,6.0,86.3,2.93,7.7,1.6,Tidak,12.9,2.2,Rumah Orang Tua,53.5,Tidak Lulus
+MHS0587,Laki-laki,21,Teknik Informatika,7,11.3,79.7,2.89,6.2,3.9,Ya,3.6,1.2,Kos,64.6,Lulus
+MHS0904,Laki-laki,20,Sistem Informasi,6,150.0,100.0,3.6,7.0,2.8,Tidak,17.0,2.7,Kos,61.0,Lulus
+MHS0187,Laki-laki,20,Sistem Informasi,5,9.3,84.8,,8.4,6.0,Tidak,14.4,15.1,Kos,59.9,Tidak Lulus
+MHS0488,Laki-laki,19,Teknik Informatika,3,15.9,98.4,4.0,3.6,4.4,Tidak,21.3,1.9,Kos,81.6,Lulus
+MHS0571,Laki-laki,21,Sistem Informasi,8,12.9,84.9,2.93,9.3,2.3,Tidak,8.4,5.0,Rumah Orang Tua,62.8,Lulus
+MHS0467,Laki-laki,20,Matematika,5,4.3,92.8,2.96,4.9,1.9,Tidak,7.7,3.8,Rumah Orang Tua,57.1,Tidak Lulus
+MHS0486,Laki-laki,21,Sistem Informasi,7,10.7,71.6,,4.8,1.4,Ya,4.2,0.9,Asrama,61.0,Lulus
+MHS0595,Perempuan,21,Teknik Informatika,7,6.2,94.3,3.66,7.0,3.1,Ya,6.2,5.4,Rumah Orang Tua,63.3,Lulus
+MHS0750,Laki-laki,21,Statistika,7,4.7,59.8,2.94,5.6,2.1,Tidak,4.5,4.8,Kos,45.0,Tidak Lulus
+MHS0586,Perempuan,21,Matematika,7,25.8,64.9,2.48,5.5,0.7,Ya,3.3,14.2,Asrama,70.2,Lulus
+MHS0472,Laki-laki,23,Sistem Informasi,12,26.4,96.2,3.62,5.7,5.3,Ya,20.3,4.0,Rumah Orang Tua,83.0,Lulus
+MHS0481,Laki-laki,19,Sistem Informasi,3,6.1,80.1,2.66,7.6,1.7,Ya,12.6,0.8,Rumah Orang Tua,57.0,Tidak Lulus
+MHS0135,Perempuan,21,Matematika,8,14.8,85.0,3.36,6.2,2.1,Tidak,7.1,0.7,Asrama,68.4,Lulus
+MHS0611,Laki-laki,19,Matematika,5,9.7,99.3,3.06,,4.5,Ya,6.0,0.4,Kos,67.9,Lulus
+MHS0819,Laki-laki,20,Matematika,7,6.3,95.6,3.49,5.1,0.4,Ya,7.0,7.5,Rumah Orang Tua,71.1,Lulus
+MHS0601,Perempuan,20,Sistem Informasi,5,6.1,80.2,2.72,,7.0,Tidak,3.4,0.7,Rumah Orang Tua,51.6,Tidak Lulus
+MHS0160,Perempuan,21,Statistika,9,10.2,87.9,2.83,7.4,5.9,Tidak,10.7,0.6,Kos,64.6,Lulus
+MHS0409,Perempuan,21,Teknik Informatika,8,7.1,68.7,2.89,,3.0,Ya,27.2,1.7,Rumah Orang Tua,60.0,Lulus
+MHS0368,Laki-laki,22,Matematika,9,8.3,98.5,2.73,6.0,3.4,Tidak,6.4,2.9,Kos,62.1,Lulus
+MHS0410,Perempuan,24,Teknik Elektro,13,3.7,84.5,3.06,8.7,3.8,Tidak,5.4,1.9,Asrama,56.1,Tidak Lulus
+MHS0049,Perempuan,21,Matematika,7,5.0,78.4,3.3,6.6,2.8,Ya,21.0,2.6,Asrama,56.4,Tidak Lulus
+MHS0075,Perempuan,20,TEKNIK INFORMATIKA,5,12.2,74.8,3.03,6.1,1.3,Tidak,8.3,10.9,Kos,68.1,Lulus
+MHS0245,Laki-laki,19,Matematika,4,15.9,85.8,2.9,6.3,0.6,Tidak,6.8,1.1,Kos,76.4,Lulus
+MHS0948,Perempuan,22,Teknik Elektro,11,3.2,100.0,3.25,5.3,3.9,Ya,3.1,4.4,Kos,56.4,Tidak Lulus
+MHS0352,P,23,Teknik Informatika,11,9.0,95.3,2.9,7.6,0.6,Tidak,,3.1,Rumah Orang Tua,73.3,Lulus
+MHS0514,Perempuan,21,Teknik Informatika,7,7.8,68.1,2.81,5.6,2.2,Tidak,7.1,0.3,Kos,61.5,Lulus
+MHS0286,Perempuan,22,Sistem Informasi,11,15.4,87.2,2.93,5.1,4.1,Tidak,7.8,4.7,Asrama,66.5,Lulus
+MHS0676,Perempuan,21,Sistem Informasi,7,5.1,71.9,2.96,5.8,3.8,Tidak,7.4,2.0,Kos,59.6,Tidak Lulus
+MHS0700,Perempuan,20,Teknik Informatika,7,16.0,94.0,3.16,7.4,2.5,Tidak,6.5,1.9,Rumah Orang Tua,84.5,Lulus
+MHS0621,Laki-laki,21,Statistika,7,7.1,,2.03,7.2,3.1,Tidak,,0.3,Kos,56.5,Tidak Lulus
+MHS0504,Laki-laki,18,Sistem Informasi,3,6.1,70.5,2.55,4.6,1.4,Tidak,9.2,1.4,Asrama,49.1,Tidak Lulus
+MHS0543,Laki-laki,17,Statistika,1,16.2,100.0,3.75,8.0,1.3,Tidak,6.9,4.5,Rumah Orang Tua,88.2,Lulus
+MHS0055,Laki-laki,21,Statistika,7,18.2,71.4,3.09,5.3,3.9,Tidak,4.7,4.3,Kos,64.8,Lulus
+MHS0396,Laki-laki,21,Sistem Informasi,7,19.1,78.8,3.1,5.3,1.7,Tidak,6.6,0.4,Kos,70.0,Lulus
+MHS0098,Perempuan,22,Teknik Informatika,11,10.3,70.1,3.13,4.7,2.5,Tidak,6.6,11.7,Rumah Orang Tua,68.5,Lulus
+MHS0850,Perempuan,19,Teknik Elektro,5,8.3,57.7,3.32,6.9,4.2,Tidak,,0.5,Kos,66.6,Lulus
+MHS0404,Laki-laki,22,Teknik Informatika,9,12.3,88.1,3.58,6.4,1.5,Tidak,6.7,8.6,Asrama,67.4,Lulus
+MHS0450,Laki-laki,19,Matematika,5,11.9,100.0,3.57,6.2,6.5,Tidak,4.6,14.7,Kos,64.5,Lulus
+MHS0295,Laki-laki,22,Statistika,9,5.4,81.9,2.79,7.8,0.3,Tidak,9.7,3.0,Kos,71.9,Lulus
+MHS0128,Perempuan,19,Teknik Informatika,3,5.0,69.9,2.55,6.9,2.4,Tidak,7.1,0.7,Kos,49.0,Tidak Lulus
+MHS0853,Laki-laki,18,teknik elektro,3,6.4,80.5,2.54,,5.6,Tidak,4.1,0.1,Kos,53.0,Tidak Lulus
+MHS0612,Perempuan,21,Matematika,8,17.7,86.7,2.92,6.6,3.7,Tidak,1.6,1.5,Kos,73.6,Lulus
+MHS0419,Perempuan,23,Teknik Informatika,11,13.4,75.0,3.86,6.4,1.7,Tidak,5.2,0.9,Kos,81.6,Lulus
+MHS0997,Laki-laki,22,Matematika,10,20.8,100.0,3.01,7.5,0.7,Tidak,5.4,4.3,Kos,80.1,Lulus
+MHS0378,Perempuan,21,Sistem Informasi,9,6.8,86.9,3.68,5.4,3.1,Tidak,13.5,14.6,Kos,58.5,Tidak Lulus
+MHS0524,Perempuan,22,Matematika,9,12.4,60.1,3.59,4.8,1.3,Tidak,25.3,1.9,Rumah Orang Tua,65.9,Lulus
+MHS0081,Laki-laki,22,Matematika,9,21.1,68.9,4.0,5.8,1.4,Tidak,8.2,0.1,Kos,82.4,Lulus
+MHS0159,Laki-laki,21,Statistika,7,8.4,86.6,2.14,7.6,1.5,Tidak,13.5,10.8,Rumah Orang Tua,63.7,Lulus
+MHS0483,Perempuan,21,Matematika,9,7.5,100.0,2.63,5.6,9.9,Ya,13.5,10.0,Rumah Orang Tua,50.0,Tidak Lulus
+MHS0427,Laki-laki,22,Teknik Informatika,10,8.7,88.8,1.64,4.8,1.4,Ya,8.0,5.3,Rumah Orang Tua,39.4,Tidak Lulus
+MHS0860,Laki-laki,21,Sistem Informasi,7,3.9,100.0,2.77,6.2,2.0,Tidak,6.8,2.8,Kos,61.2,Lulus
+MHS0685,Laki-laki,20,Matematika,7,6.7,78.9,3.19,7.2,2.4,Tidak,10.0,0.3,Kos,60.5,Lulus
+MHS0887,Laki-laki,22,Sistem Informasi,9,5.5,97.2,2.66,5.8,1.8,Ya,5.5,4.9,Rumah Orang Tua,60.9,Lulus
+MHS0672,Perempuan,22,Matematika,11,12.2,75.8,2.81,6.5,0.6,Ya,8.6,14.6,Rumah Orang Tua,55.4,Tidak Lulus
+MHS0516,Laki-laki,20,Teknik Informatika,6,9.3,91.2,2.78,6.8,3.9,Tidak,6.4,6.7,Rumah Orang Tua,67.3,Lulus
+MHS0809,Laki-laki,22,Sistem Informasi,11,3.5,82.1,2.81,,3.6,Tidak,2.4,4.0,Kos,42.6,Tidak Lulus
+MHS0633,Perempuan,22,Teknik Informatika,11,12.6,80.8,3.46,6.1,5.1,Tidak,2.1,0.6,Asrama,70.1,Lulus
+MHS0697,Laki-laki,18,Statistika ,2,14.7,76.2,2.91,4.9,1.3,Ya,11.3,3.7,Kos,69.8,Lulus
+MHS0351,Perempuan,20,Matematika,6,9.8,81.3,3.04,6.1,1.5,Tidak,7.4,0.6,Kos,66.5,Lulus
+MHS0317,Perempuan,19,Sistem Informasi,5,5.4,60.6,2.72,6.4,1.4,Ya,2.3,0.7,Rumah Orang Tua,48.6,Tidak Lulus
+MHS0180,Laki-laki,19,Statistika,5,6.0,98.1,2.85,4.8,1.2,Tidak,8.5,4.4,Rumah Orang Tua,71.9,Lulus
+MHS0891,Laki-laki,19,Sistem Informasi,4,9.7,82.9,3.04,7.4,1.6,Tidak,12.9,0.1,Kos,65.2,Lulus
+MHS0643,Laki-laki,21,Teknik Informatika,9,18.7,100.0,3.83,6.8,4.3,Tidak,3.7,3.2,Kos,89.7,Lulus
+MHS0596,Perempuan,18,Teknik Informatika,1,14.8,63.9,3.3,7.7,3.2,Ya,10.6,16.0,Rumah Orang Tua,57.2,Tidak Lulus
+MHS0123,Perempuan,21,Teknik Informatika,9,8.6,,2.82,4.9,2.5,Tidak,12.1,3.2,Rumah Orang Tua,61.4,Lulus
+MHS0909,Perempuan,25,Teknik Informatika,14,7.5,99.3,3.03,5.1,2.3,Tidak,13.1,3.6,Kos,67.6,Lulus
+MHS0473,P,20,Teknik Informatika,5,14.0,82.3,3.03,8.2,2.4,Tidak,10.8,0.5,Asrama,63.5,Lulus
+MHS0757,Laki-laki,21,Sistem Informasi,8,15.5,50.7,3.36,,3.7,Tidak,3.6,0.8,Kos,59.8,Tidak Lulus
+MHS0885,Laki-laki,21,Teknik Informatika,7,14.6,60.9,3.22,4.8,3.5,Tidak,4.5,0.8,Kos,63.4,Lulus
+MHS0529,Laki-laki,20,Statistika,5,6.3,54.7,3.76,4.8,1.8,Ya,9.7,5.4,Rumah Orang Tua,50.4,Tidak Lulus
+MHS0455,Laki-laki,20,Teknik Informatika,5,6.6,76.0,2.6,5.9,0.6,Tidak,11.5,7.9,Kos,54.3,Tidak Lulus
+MHS0898,Laki-laki,22,Teknik Informatika,10,14.8,93.7,2.95,7.0,2.9,Tidak,8.2,19.1,Kos,72.1,Lulus
+MHS0913,Perempuan,23,Teknik Elektro,11,13.0,62.6,2.99,7.8,3.9,Tidak,4.3,0.5,Kos,61.4,Lulus
+MHS0420,Perempuan,20,Teknik Elektro,6,16.0,,2.73,3.8,2.7,Tidak,6.0,2.8,Kos,73.0,Lulus
+MHS0173,Laki-laki,20,Teknik Informatika,5,6.4,87.5,2.72,6.4,1.7,Ya,5.7,1.5,Kos,60.2,Lulus
+MHS0897,Perempuan,23,Teknik Informatika,12,19.4,71.0,2.7,8.6,0.7,Tidak,6.9,18.1,Kos,72.9,Lulus
+MHS0335,Perempuan,18,Teknik Informatika,1,14.5,71.8,2.87,7.0,0.7,Tidak,10.1,1.5,Kos,68.1,Lulus
+MHS0398,Perempuan,20,Teknik Informatika,7,19.7,86.1,2.85,7.9,7.8,Tidak,8.5,1.8,Kos,67.1,Lulus
+MHS0272,Laki-laki,21,Teknik Informatika,9,7.0,99.2,3.28,7.2,2.5,Tidak,14.5,0.4,Kos,69.9,Lulus
+MHS0221,Laki-laki,21,Sistem Informasi,9,12.8,90.3,2.8,4.9,1.2,Ya,3.2,1.3,Rumah Orang Tua,74.6,Lulus
+MHS0988,Perempuan,21,Teknik Informatika,8,14.7,74.2,3.19,6.3,2.8,Tidak,4.5,1.3,Rumah Orang Tua,65.8,Lulus
+MHS0464,Laki-laki,21,Sistem Informasi,7,2.6,100.0,3.03,4.8,2.9,Tidak,6.0,,Kos,51.9,Tidak Lulus
+MHS0016,Laki-laki,20,Teknik Informatika,7,9.3,81.1,3.51,6.5,1.3,Tidak,4.2,5.6,Kos,67.6,Lulus
+MHS0570,Laki-laki,23,Sistem Informasi,11,10.4,93.1,3.19,5.7,1.1,Ya,8.0,,Kos,53.3,Tidak Lulus
+MHS0390,Laki-laki,22,Teknik Elektro,9,24.1,87.6,2.96,5.4,1.3,Ya,2.6,2.7,Kos,79.4,Lulus
+MHS0826,Laki-laki,23,Teknik Informatika,12,13.6,76.1,3.26,5.1,0.3,Tidak,5.4,0.9,Kos,70.4,Lulus
+MHS0322,Laki-laki,19,Sistem Informasi,3,18.0,89.8,3.78,6.9,3.4,Tidak,3.9,24.4,Rumah Orang Tua,75.8,Lulus
+MHS0801,Perempuan,19,Statistika,3,10.1,82.2,3.29,5.4,2.2,tidak,18.0,1.4,Kos,58.3,Tidak Lulus
+MHS0858,Laki-laki,20,Teknik Elektro,6,10.0,56.1,3.55,6.8,3.1,Tidak,5.5,3.2,Kos,63.2,Lulus
+MHS0526,Laki-laki,23,Sistem Informasi,12,6.0,71.3,3.33,6.4,2.3,Tidak,5.7,2.4,Kos,67.3,Lulus
+MHS0508,Laki-laki,20,Statistika,6,9.6,84.1,3.12,8.3,3.0,Tidak,5.8,11.2,Kos,63.1,Lulus
+MHS0148,Perempuan,20,Sistem Informasi,5,9.0,84.4,2.46,7.0,1.6,Tidak,,3.4,Asrama,57.1,Tidak Lulus
+MHS0397,Perempuan,21,Statistika,8,6.4,87.3,3.05,6.9,5.2,Tidak,5.7,1.4,Rumah Orang Tua,63.6,Lulus
+MHS0657,Laki-laki,22,Teknik Elektro,10,9.5,100.0,2.61,7.1,4.6,Tidak,5.2,7.7,Asrama,59.3,Tidak Lulus
+MHS0998,Laki-laki,20,Teknik Informatika,7,14.9,80.9,2.51,6.9,0.4,Tidak,7.0,0.4,Kos,72.4,Lulus
+MHS0052,Laki-laki,20,Teknik Informatika,7,13.1,77.4,2.61,5.7,6.1,Ya,3.9,1.4,Kos,58.9,Tidak Lulus
+MHS0831,Laki-laki,21,Matematika,8,6.3,94.1,2.56,5.8,0.7,Tidak,12.2,2.6,Kos,56.4,Tidak Lulus
+MHS0329,Laki-laki,21,Matematika,7,13.7,86.7,3.38,5.6,1.3,Tidak,4.8,3.4,Kos,77.7,Lulus
+MHS0023,Perempuan,21,Teknik Elektro,7,18.5,95.9,3.13,6.3,1.6,Ya,7.7,2.7,Rumah Orang Tua,69.7,Lulus
+MHS0271,Perempuan,21,Teknik Informatika,9,9.1,78.8,2.47,5.1,2.3,Tidak,18.1,4.1,Rumah Orang Tua,66.9,Lulus
+MHS0636,Laki-laki,19,Teknik Informatika,4,18.4,69.4,2.86,7.8,4.6,Tidak,,2.1,Asrama,70.3,Lulus
+MHS0743,Laki-laki,21,Teknik Elektro,7,7.1,100.0,3.01,8.8,3.1,Tidak,3.1,,Rumah Orang Tua,68.4,Lulus
+MHS0210,Laki-laki,21,Sistem Informasi,7,5.6,100.0,2.82,4.4,2.0,Tidak,5.7,19.9,Rumah Orang Tua,56.3,Tidak Lulus
+MHS0290,Perempuan,21,Teknik Informatika,7,12.2,44.4,2.87,7.5,5.8,Tidak,9.5,9.2,Kos,60.7,Lulus
+MHS0143,Perempuan,19,Teknik Elektro,3,17.1,72.7,3.67,5.9,1.8,Tidak,9.1,1.8,Kos,72.4,Lulus
+MHS0051,Perempuan,22,Teknik Informatika,11,7.0,87.7,3.07,5.7,2.7,Ya,4.3,16.6,Rumah Orang Tua,62.2,Lulus
+MHS0167,Perempuan,21,Statistika,8,8.7,79.8,2.73,5.1,2.7,Tidak,7.5,1.1,Rumah Orang Tua,63.2,Lulus
+MHS0628,Laki-laki,20,Teknik Informatika,6,7.8,80.1,,7.5,5.6,Tidak,,8.5,Rumah Orang Tua,54.9,Tidak Lulus
+MHS0978,Perempuan,22,Sistem Informasi,11,17.7,90.7,3.11,7.2,4.4,Tidak,5.9,0.6,Kos,75.4,Lulus
+MHS0082,Perempuan,20,Sistem Informasi,7,21.7,73.1,3.49,6.3,2.5,Ya,4.3,1.7,Rumah Orang Tua,72.2,Lulus
+MHS0340,Laki-laki,22,Teknik Elektro,10,7.7,88.8,2.83,5.4,2.0,Tidak,10.3,0.7,Kos,60.4,Lulus
+MHS0695,Perempuan,24,Teknik Elektro,13,12.0,66.2,3.14,7.0,3.5,Tidak,4.4,2.9,Rumah Orang Tua,67.1,Lulus
+MHS0912,Laki-laki,21,Teknik Elektro,9,9.7,60.6,3.91,8.2,2.5,Tidak,4.6,6.6,Rumah Orang Tua,64.0,Lulus
+MHS0067,Laki-laki,19,Matematika,4,16.2,70.2,2.75,6.2,5.6,Tidak,3.7,3.7,Kos,67.7,Lulus
+MHS0532,Laki-laki,21,Statistika,7,8.4,87.1,3.33,6.7,1.4,Ya,5.0,2.8,Kos,58.8,Tidak Lulus
+MHS0663,Perempuan,22,Teknik Informatika,9,14.2,69.1,3.46,6.2,6.0,Tidak,4.0,1.9,Kos,54.5,Tidak Lulus
+MHS0509,Laki-laki,19,Sistem Informasi,4,13.5,88.3,2.43,5.8,0.9,Tidak,2.8,10.2,Asrama,69.5,Lulus
+MHS0541,Perempuan,24,Teknik Elektro,14,10.1,100.0,2.93,8.7,2.4,Tidak,18.8,12.6,Kos,71.0,Lulus
+MHS0284,Perempuan,19,Teknik Informatika,4,6.9,84.7,3.0,5.9,1.7,tidak,4.9,8.4,Rumah Orang Tua,57.3,Tidak Lulus
+MHS0882,Perempuan,21,Matematika,7,11.0,69.0,2.99,6.7,1.1,Tidak,,15.0,Asrama,64.9,Lulus
+MHS0519,Laki-laki,5,Teknik Informatika,7,16.9,59.9,2.73,6.3,3.1,Ya,6.9,5.2,Kos,56.2,Tidak Lulus
+MHS0065,Laki-laki,21,matematika,9,5.5,100.0,2.95,6.9,3.0,Ya,3.4,4.7,Rumah Orang Tua,58.7,Tidak Lulus
+MHS0654,Laki-laki,22,Teknik Informatika,10,8.9,50.9,1.99,5.4,2.7,Tidak,6.9,1.8,Kos,46.8,Tidak Lulus
+MHS0265,Perempuan,18,Teknik Elektro,2,4.2,100.0,,6.7,5.0,Tidak,7.1,3.2,Kos,64.1,Lulus
+MHS0774,Perempuan,23,Statistika,11,17.7,80.3,3.67,5.7,2.4,Ya,7.7,2.1,Rumah Orang Tua,80.0,Lulus
+MHS0583,Laki-laki,18,Teknik Informatika,2,13.2,46.2,2.72,6.6,2.6,Ya,5.4,3.4,Asrama,53.1,Tidak Lulus
+MHS0515,Perempuan,21,Sistem Informasi,8,14.4,68.5,2.75,5.8,5.3,Ya,5.3,20.3,Asrama,45.7,Tidak Lulus
+MHS0021,Perempuan,22,Statistika,10,16.9,90.7,3.66,7.0,1.0,Tidak,15.5,4.4,Rumah Orang Tua,79.5,Lulus
+MHS0859,Laki-laki,20,Sistem Informasi,6,8.4,88.8,2.59,6.8,4.3,Tidak,,6.0,Rumah Orang Tua,67.6,Lulus
+MHS0776,Perempuan,19,Teknik Elektro,4,11.9,88.6,2.96,5.0,2.6,Ya,3.4,5.8,Kos,62.1,Lulus
+MHS0703,Laki-laki,19,Teknik Informatika,4,5.0,78.6,2.95,7.9,2.4,Ya,6.8,0.5,Kos,61.7,Lulus
+MHS0297,Laki-laki,20,Teknik Elektro,6,7.3,94.4,2.14,6.3,2.1,Tidak,7.5,5.2,Kos,49.4,Tidak Lulus
+MHS0617,Laki-laki,21,Statistika,8,9.1,72.3,3.52,6.7,4.3,Tidak,6.5,7.2,Kos,69.1,Lulus
+MHS0969,Laki-laki,20,Matematika,6,11.8,81.2,2.49,6.0,0.6,Tidak,3.1,0.1,Asrama,52.4,Tidak Lulus
+MHS0262,Laki-laki,21,Statistika,7,9.7,71.5,2.85,4.3,6.2,Tidak,20.8,1.7,Rumah Orang Tua,56.6,Tidak Lulus
+MHS0659,Laki-laki,20,Matematika,7,10.0,72.3,3.58,5.6,3.0,Tidak,,1.7,Rumah Orang Tua,62.9,Lulus
+MHS0505,Perempuan,18,Sistem Informasi,2,5.9,80.8,2.38,6.4,1.4,Tidak,5.6,4.6,Kos,57.9,Tidak Lulus
+MHS0982,Laki-laki,18,Statistika,3,9.6,65.4,2.62,7.1,0.8,Tidak,5.0,7.5,Kos,59.1,Tidak Lulus
+MHS0813,Perempuan,23,Teknik Elektro,12,13.6,,3.24,6.2,2.5,Ya,4.3,6.1,Asrama,72.7,Lulus
+MHS0474,Laki-laki,20,Teknik Informatika,5,15.7,79.4,2.7,5.6,3.0,Ya,15.6,2.7,Rumah Orang Tua,75.2,Lulus
+MHS0834,Laki-laki,20,Matematika,6,5.0,93.1,2.84,6.6,2.5,Tidak,5.1,8.6,Rumah Orang Tua,67.7,Lulus
+MHS0189,Laki-laki,21,Statistika,9,8.7,93.1,1.89,6.3,5.6,Tidak,12.9,14.8,Rumah Orang Tua,50.7,Tidak Lulus
+MHS0252,Laki-laki,20,Teknik Elektro,7,19.7,78.4,2.39,5.7,3.2,Tidak,4.7,2.0,Kos,66.7,Lulus
+MHS0072,Perempuan,21,Sistem Informasi,7,27.5,75.5,3.19,4.4,1.1,Tidak,6.1,0.1,Rumah Orang Tua,88.8,Lulus
+MHS0734,Laki-laki,22,Sistem Informasi,9,5.8,100.0,3.37,5.3,7.3,Ya,4.3,5.5,Kos,63.2,Lulus
+MHS0376,Laki-laki,19,Teknik Informatika,4,16.4,84.5,3.27,5.4,2.4,Tidak,,10.9,Kos,74.5,Lulus
+MHS0345,Perempuan,20,Statistika,7,17.9,76.2,3.95,7.0,3.0,Tidak,,4.9,Asrama,84.6,Lulus
+MHS0784,Laki-laki,24,Matematika,13,8.1,62.4,2.64,6.0,1.8,Ya,9.4,1.2,Rumah Orang Tua,56.1,Tidak Lulus
+MHS0362,Laki-laki,20,Teknik Informatika,6,4.9,75.8,3.67,6.1,4.6,Ya,3.9,18.7,Kos,55.7,Tidak Lulus
+MHS0946,L,20,Teknik Informatika,7,10.8,69.9,3.25,5.8,1.3,Ya,8.7,1.5,Rumah Orang Tua,62.0,Lulus
+MHS0942,Laki-laki,22,Statistika,10,11.8,82.4,3.6,5.8,1.9,Tidak,3.1,3.1,Kos,72.3,Lulus
+MHS0373,Laki-laki,23,Sistem Informasi,13,13.4,70.1,3.09,7.7,3.5,Tidak,4.2,0.6,Kos,68.3,Lulus
+MHS0412,Perempuan,22,Matematika,10,12.8,72.3,2.55,7.0,1.9,Tidak,31.7,0.2,Rumah Orang Tua,60.4,Lulus
+MHS0563,Perempuan,23,Statistika,11,16.2,52.3,2.6,6.8,2.0,Ya,4.3,0.5,Kos,55.9,Tidak Lulus
+MHS0738,L,20,Sistem Informasi,7,2.9,93.9,2.4,6.2,3.3,Tidak,2.2,11.6,Kos,56.6,Tidak Lulus
+MHS0466,Perempuan,18,Matematika,3,10.2,100.0,2.57,4.9,1.1,Tidak,5.7,2.5,Kos,72.5,Lulus
+MHS0819,Laki-laki,20,Matematika,7,6.3,95.6,3.49,5.1,0.4,Ya,7.0,7.5,Rumah Orang Tua,71.1,Lulus
+MHS0453,Perempuan,20,Statistika,5,10.5,66.6,,6.4,1.5,Tidak,4.6,4.8,Kos,57.2,Tidak Lulus
+MHS0684,Laki-laki,21,Sistem Informasi,7,10.5,84.1,2.97,4.5,0.7,Ya,5.9,3.9,Rumah Orang Tua,63.1,Lulus
+MHS0400,Laki-laki,19,Sistem Informasi,5,10.6,66.0,2.58,7.5,1.9,Tidak,3.7,0.3,Kos,63.0,Lulus
+MHS0363,Perempuan,21,Teknik Informatika,8,12.8,81.3,2.89,5.2,3.3,Tidak,4.7,9.6,Rumah Orang Tua,75.1,Lulus
+MHS0599,Perempuan,18,Teknik Elektro,3,13.4,80.8,3.12,,4.5,Ya,5.6,1.0,Rumah Orang Tua,62.6,Lulus
+MHS0456,Laki-laki,19,Teknik Informatika,5,13.5,74.2,2.85,,1.5,Tidak,7.1,4.3,Rumah Orang Tua,64.1,Lulus
+MHS0219,Perempuan,19,Teknik Elektro,4,8.8,77.1,3.27,6.0,1.0,Tidak,7.0,6.6,Rumah Orang Tua,63.9,Lulus
+MHS0240,Laki-laki,21,Teknik Informatika,9,9.3,84.9,4.0,7.4,5.4,Tidak,19.4,6.0,Kos,66.0,Lulus
+MHS0527,Laki-laki,19,Teknik Elektro,3,9.3,94.6,3.65,5.9,2.1,Ya,5.3,0.7,Kos,69.5,Lulus
+MHS0531,Laki-laki,20,Matematika,5,2.7,60.3,,6.4,3.6,Tidak,4.9,2.6,Rumah Orang Tua,57.3,Tidak Lulus
+MHS0193,Perempuan,22,Teknik Informatika,11,10.6,91.3,3.79,4.7,2.1,Tidak,11.6,4.1,Asrama,62.2,Lulus
+MHS0490,Laki-laki,22,Matematika,11,19.7,84.4,2.86,6.1,0.7,Ya,,19.2,Kos,70.6,Lulus
+MHS0192,Laki-laki,19,Teknik Informatika,3,17.5,99.4,3.13,5.8,4.2,Tidak,4.2,25.3,Kos,65.3,Lulus
+MHS0348,Laki-laki,17,Teknik Informatika,1,21.0,83.8,2.51,6.3,4.5,Tidak,3.6,14.0,Rumah Orang Tua,56.8,Tidak Lulus
+MHS0673,Perempuan,23,Teknik Elektro,11,25.3,87.6,3.33,5.0,5.1,Tidak,10.3,2.1,Rumah Orang Tua,72.1,Lulus
+MHS0452,Perempuan,21,Teknik Elektro,9,3.0,82.3,,5.8,2.9,Tidak,7.6,6.9,Rumah Orang Tua,47.7,Tidak Lulus
+MHS0133,Laki-laki,20,Matematika,7,7.1,79.9,,7.2,8.4,Tidak,4.1,2.3,Kos,53.0,Tidak Lulus
+MHS0714,Perempuan,20,Teknik Elektro,7,27.3,81.8,4.0,7.1,2.1,Tidak,4.4,9.6,Rumah Orang Tua,87.8,Lulus
+MHS0253,Laki-laki,21,Sistem Informasi,7,20.4,78.1,,6.4,4.0,Tidak,4.4,1.5,Kos,75.5,Lulus
+MHS0678,Laki-laki,20,Sistem Informasi,6,19.7,81.5,3.3,,2.3,Ya,16.3,3.4,Rumah Orang Tua,77.7,Lulus
+MHS0771,Perempuan,20,Teknik Informatika,7,8.8,66.1,3.48,7.0,2.1,Tidak,6.7,3.8,Rumah Orang Tua,58.3,Tidak Lulus
+MHS0264,Perempuan,20,Teknik Informatika,5,7.8,61.2,,4.7,2.1,Tidak,5.3,10.7,Kos,51.6,Tidak Lulus
+MHS0071,Perempuan,18,Teknik Informatika,3,5.0,79.5,,5.0,2.0,Tidak,5.8,1.0,Kos,49.4,Tidak Lulus
+MHS0273,Laki-laki,21,Teknik Informatika,8,5.7,89.9,2.76,7.3,7.1,Tidak,6.2,1.5,Kos,48.6,Tidak Lulus
+MHS0977,P,22,Sistem Informasi,10,9.3,69.7,2.68,5.1,3.1,Tidak,10.7,1.9,Kos,52.2,Tidak Lulus
+MHS0328,Perempuan,22,Sistem Informasi,11,14.5,80.4,2.91,5.1,1.8,Tidak,15.4,1.6,Kos,68.5,Lulus
+MHS0116,Laki-laki,20,Teknik Elektro,5,11.8,55.5,2.53,6.8,2.7,Tidak,9.2,6.4,Kos,52.3,Tidak Lulus
+MHS0324,Perempuan,20,Sistem Informasi,5,8.7,92.4,3.17,6.2,4.4,Ya,1.6,4.2,Kos,69.6,Lulus
+MHS0972,Perempuan,22,Teknik Informatika,11,25.1,81.9,3.35,5.1,2.7,Ya,4.7,2.5,Kos,76.6,Lulus
+MHS0670,Perempuan,20,Sistem Informasi,6,6.2,66.5,2.23,10.0,1.1,Ya,2.0,0.6,Kos,54.7,Tidak Lulus
+MHS0492,Perempuan,20,Matematika,7,19.1,80.2,4.0,4.5,0.9,Tidak,12.7,1.1,Kos,80.8,Lulus
+MHS0421,Perempuan,17,Matematika,1,9.0,81.9,3.35,6.2,1.0,Tidak,,2.5,Rumah Orang Tua,66.0,Lulus
+MHS0627,Laki-laki,22,Statistika,10,23.1,92.0,3.28,7.6,4.0,Tidak,3.4,3.7,Asrama,81.9,Lulus
+MHS0781,Laki-laki,20,Teknik Informatika,6,13.4,83.7,3.31,6.9,4.0,Tidak,9.3,1.1,Kos,70.2,Lulus
+MHS0447,Perempuan,22,Teknik Elektro,9,25.3,87.5,2.53,7.4,1.8,Ya,7.8,5.1,Kos,79.8,Lulus
+MHS0460,Laki-laki,22,MATEMATIKA,9,16.6,77.7,2.99,7.3,2.4,Tidak,8.3,0.5,Rumah Orang Tua,65.5,Lulus
+MHS0878,Laki-laki,22,Sistem Informasi,11,7.6,75.3,3.04,5.9,0.9,Tidak,18.6,0.7,Rumah Orang Tua,67.2,Lulus
+MHS0454,Perempuan,17,Teknik Informatika,1,8.1,95.3,3.35,7.2,2.0,Ya,6.7,8.2,Kos,72.7,Lulus
+MHS0811,L,20,Teknik Informatika,7,6.2,80.8,2.49,6.7,4.8,Tidak,3.9,4.6,Rumah Orang Tua,57.9,Tidak Lulus
+MHS0279,Perempuan,23,Teknik Elektro,13,7.7,78.7,2.65,5.8,2.8,Tidak,7.5,4.9,Rumah Orang Tua,61.1,Lulus
+MHS0793,Laki-laki,20,Sistem Informasi,5,16.1,91.1,2.66,5.0,4.3,Tidak,22.9,4.1,Rumah Orang Tua,74.0,Lulus
+MHS0901,Perempuan,23,Sistem Informasi,12,13.4,83.2,3.72,4.4,3.4,Tidak,,1.3,Asrama,64.2,Lulus
+MHS0003,Laki-laki,19,Teknik Elektro,3,9.2,90.6,,6.6,2.7,Ya,8.6,,Rumah Orang Tua,63.2,Lulus
+MHS0230,Laki-laki,18,Teknik Informatika,1,15.3,64.8,2.87,4.7,1.0,Ya,5.5,0.1,Rumah Orang Tua,58.3,Tidak Lulus
+MHS0995,Laki-laki,22,Teknik Elektro,10,16.1,98.3,2.99,7.4,4.0,Tidak,2.9,20.8,Kos,67.4,Lulus
+MHS0937,Laki-laki,21,Teknik Elektro,9,7.3,95.8,2.4,8.7,2.1,Tidak,,16.5,Kos,56.6,Tidak Lulus
+MHS0970,Laki-laki,20,Teknik Informatika,7,9.2,65.2,2.97,5.6,1.5,Tidak,4.0,2.0,Kos,54.4,Tidak Lulus
+MHS0865,Perempuan,22,Teknik Informatika,10,15.3,96.8,2.9,5.3,4.1,Ya,5.7,2.6,Rumah Orang Tua,67.1,Lulus
+MHS0200,Perempuan,21,Sistem Informasi,7,14.7,84.3,2.59,6.1,1.1,Tidak,6.6,5.4,Kos,72.6,Lulus
+MHS0372,Perempuan,17,Teknik Informatika,1,30.8,95.5,,6.0,2.2,Tidak,4.9,1.4,Rumah Orang Tua,84.1,Lulus
+MHS0867,P,21,Teknik Elektro,7,7.8,82.9,2.74,5.7,3.2,Tidak,11.7,8.3,Rumah Orang Tua,66.7,Lulus
+MHS0710,L,20,Sistem Informasi,7,10.8,84.0,3.1,6.2,2.4,Ya,,3.1,Rumah Orang Tua,60.0,Lulus
+MHS0066,Perempuan,21,Matematika,8,16.6,73.6,3.08,7.5,2.2,Tidak,2.2,3.3,Kos,71.3,Lulus
+MHS0506,Laki-laki,19,Statistika,5,11.1,92.7,2.94,5.5,1.6,Tidak,2.5,18.7,Kos,62.3,Lulus
+MHS0041,Laki-laki,21,Sistem Informasi,8,15.2,69.2,2.96,,1.6,Tidak,3.9,6.4,Kos,79.1,Lulus
+MHS0749,Laki-laki,22,Statistika,11,12.1,97.9,2.99,5.6,4.4,Tidak,4.9,2.5,Kos,68.7,Lulus
+MHS0485,Perempuan,20,Teknik Informatika,5,8.2,82.6,2.55,7.0,2.9,Ya,7.6,,Rumah Orang Tua,56.5,Tidak Lulus
+MHS0818,Laki-laki,20,SISTEM INFORMASI,6,6.0,75.6,2.86,6.6,3.3,Tidak,3.7,0.3,Rumah Orang Tua,64.9,Lulus
+MHS0779,P,20,Statistika,6,3.8,99.9,3.35,6.8,4.5,Tidak,2.3,1.6,Kos,65.2,Lulus
+MHS0956,Perempuan,20,Teknik Elektro,6,18.6,90.2,,5.9,2.9,Tidak,8.3,9.4,Rumah Orang Tua,75.4,Lulus
+MHS0568,Laki-laki,20,Teknik Informatika,5,15.1,76.1,2.54,6.0,2.7,tidak,7.3,9.6,Kos,68.6,Lulus
+MHS0274,Perempuan,24,Matematika,13,19.4,100.0,2.63,7.4,2.2,Tidak,6.5,3.0,Kos,86.3,Lulus
+MHS0701,Perempuan,20,Teknik Informatika,5,8.6,93.3,2.28,5.8,2.1,Ya,3.3,,Kos,56.0,Tidak Lulus
+MHS0822,Laki-laki,21,Matematika,7,7.6,96.7,1.95,8.0,1.4,Ya,4.8,0.8,Rumah Orang Tua,57.6,Tidak Lulus
+MHS0494,Perempuan,22,Sistem Informasi,9,6.2,85.8,,5.9,0.9,Tidak,5.8,1.0,Kos,59.6,Tidak Lulus
+MHS0976,Laki-laki,19,Matematika,5,17.0,66.8,3.51,6.9,8.1,Ya,9.9,0.7,Rumah Orang Tua,67.2,Lulus
+MHS0178,Laki-laki,20,Teknik Elektro,5,4.5,78.0,3.54,7.4,0.9,Ya,6.7,5.7,Rumah Orang Tua,61.9,Lulus
+MHS0301,Laki-laki,19,Statistika,4,10.8,82.2,2.77,7.0,3.4,Tidak,3.7,4.1,Rumah Orang Tua,58.2,Tidak Lulus
+MHS0038,Laki-laki,21,Sistem Informasi,9,10.3,92.8,3.44,6.3,4.6,Tidak,10.3,6.5,Kos,70.4,Lulus
+MHS0493,Perempuan,20,Matematika,5,4.7,88.3,2.24,5.2,3.4,Ya,4.2,2.0,Kos,49.1,Tidak Lulus
+MHS0203,Perempuan,19,Sistem Informasi,3,12.8,76.2,2.74,5.5,2.5,Tidak,4.8,6.2,Rumah Orang Tua,64.8,Lulus
+MHS0237,Laki-laki,19,Sistem Informasi ,4,9.7,82.1,3.51,6.4,4.0,Tidak,9.9,6.1,Rumah Orang Tua,66.5,Lulus
+MHS0150,Perempuan,20,Teknik Informatika,6,22.5,77.9,3.72,7.1,5.7,Tidak,6.0,1.8,Kos,78.0,Lulus
+MHS0218,Perempuan,20,Teknik Informatika,7,5.2,89.0,3.3,6.7,1.9,Tidak,6.9,2.1,Rumah Orang Tua,61.0,Lulus
+MHS0680,Perempuan,22,Sistem Informasi,10,4.3,73.5,2.37,6.2,2.9,Tidak,4.7,1.3,Kos,50.4,Tidak Lulus
+MHS0408,Laki-laki,20,Statistika,7,14.0,75.5,2.45,5.9,4.0,Tidak,6.7,18.6,Kos,63.7,Lulus
+MHS0552,Laki-laki,23,Teknik Informatika,12,12.8,81.4,,7.1,0.9,Tidak,6.0,1.2,Asrama,68.5,Lulus
+MHS0614,Laki-laki,18,Teknik Elektro,1,10.5,74.4,2.49,4.6,3.1,Ya,6.2,1.5,Kos,59.5,Tidak Lulus
+MHS0787,Laki-laki,21,Statistika,8,11.3,94.3,2.73,5.4,3.0,Ya,8.8,0.4,Rumah Orang Tua,63.4,Lulus
+MHS0303,Perempuan,21,Sistem Informasi,8,80.0,83.8,3.24,6.0,5.0,Tidak,8.9,2.5,Rumah Orang Tua,58.3,Tidak Lulus
+MHS0864,Perempuan,22,Matematika,11,11.3,66.6,3.29,7.3,4.7,Tidak,8.0,1.7,Kos,60.9,Lulus
+MHS0929,Laki-laki,22,Matematika,9,4.4,86.6,3.59,6.7,2.1,Tidak,,0.8,Rumah Orang Tua,53.4,Tidak Lulus
+MHS0674,Laki-laki,19,Statistika ,5,15.2,94.2,3.64,5.7,3.6,Ya,23.4,0.8,Kos,73.1,Lulus
+MHS0936,Laki-laki,19,Teknik Informatika,4,11.6,90.8,2.88,8.4,3.0,Ya,6.0,,Kos,67.5,Lulus
+MHS0389,Perempuan,20,Teknik Informatika,6,19.5,100.0,3.28,6.9,6.3,Tidak,4.8,2.5,Asrama,82.0,Lulus
+MHS0423,Laki-laki,20,Teknik Informatika,6,16.2,99.3,2.94,7.4,2.6,Tidak,5.7,18.8,Rumah Orang Tua,79.6,Lulus
+MHS0388,Laki-laki,18,Teknik Elektro,2,11.3,69.9,2.87,6.8,2.2,Ya,4.2,9.0,Rumah Orang Tua,59.6,Tidak Lulus
+MHS0778,Laki-laki,23,Teknik Informatika,11,14.7,83.6,3.45,6.5,1.4,Ya,11.1,0.1,Asrama,68.8,Lulus
+MHS0391,Perempuan,19,Matematika,5,23.2,88.9,3.18,5.3,1.4,Tidak,5.6,5.7,Kos,87.2,Lulus
+MHS0857,Laki-laki,20,Statistika,7,8.0,93.7,2.68,7.2,2.6,Ya,18.9,0.5,Kos,56.7,Tidak Lulus
+MHS0353,Laki-laki,21,Matematika,8,3.5,100.0,2.44,6.3,3.5,Tidak,11.0,0.5,Kos,60.5,Lulus
+MHS0194,Perempuan,20,Statistika,5,9.2,77.3,3.28,5.7,6.4,Ya,3.6,1.8,Rumah Orang Tua,53.6,Tidak Lulus
+MHS0236,Laki-laki,22,Statistika,9,5.0,78.0,2.88,5.9,1.8,Ya,,8.1,Kos,50.2,Tidak Lulus
+MHS0443,Laki-laki,20,Statistika,5,4.5,74.7,2.84,5.0,1.1,Ya,11.3,1.8,Kos,45.5,Tidak Lulus
+MHS0921,Laki-laki,17,Teknik Informatika,1,6.3,89.5,2.9,5.1,2.3,Tidak,,3.8,Rumah Orang Tua,58.9,Tidak Lulus
+MHS0056,Perempuan,19,Statistika,5,14.6,89.6,2.13,6.6,3.2,Tidak,14.5,2.5,Rumah Orang Tua,54.0,Tidak Lulus
+MHS0768,Laki-laki,18,Teknik Informatika,2,7.6,79.2,2.75,6.6,3.9,Ya,6.4,8.6,Kos,53.1,Tidak Lulus
+MHS0097,Laki-laki,19,Sistem Informasi,4,19.4,91.7,3.31,6.9,2.8,Ya,,1.8,Kos,74.9,Lulus
+MHS0142,Perempuan,22,Sistem Informasi,11,15.5,66.1,2.88,6.0,2.7,Tidak,13.1,8.0,Kos,61.1,Lulus
+MHS0702,Perempuan,21,Sistem Informasi,7,20.1,78.8,3.29,5.5,4.3,Tidak,7.3,4.0,Asrama,66.4,Lulus
+MHS0868,Laki-laki,21,Statistika,9,10.7,71.7,3.51,6.9,4.4,Ya,7.1,1.1,Kos,61.6,Lulus
+MHS0645,Laki-laki,22,Matematika,10,16.8,89.7,3.52,6.9,4.3,Ya,6.1,3.9,Rumah Orang Tua,79.9,Lulus
+MHS0573,Perempuan,20,Sistem Informasi,5,6.6,70.4,3.31,5.8,2.0,Tidak,6.9,0.5,Kos,57.1,Tidak Lulus
+MHS0121,Perempuan,19,Matematika,3,11.5,89.2,3.35,6.0,3.0,Tidak,10.3,8.6,Rumah Orang Tua,61.0,Lulus
+MHS0602,L,18,Statistika,3,4.2,89.4,3.32,5.9,6.5,Tidak,3.1,1.0,Kos,47.8,Tidak Lulus
+MHS0569,Laki-laki,18,Sistem Informasi,1,6.6,56.5,2.76,6.6,2.3,Tidak,7.6,1.5,Rumah Orang Tua,49.4,Tidak Lulus
+MHS0063,Laki-laki,20,Matematika,6,10.1,91.7,3.33,6.0,2.0,Tidak,2.5,2.5,Rumah Orang Tua,75.9,Lulus
+MHS0890,Laki-laki,20,Matematika,5,5.5,96.7,3.72,6.5,0.3,Tidak,10.3,10.6,Kos,68.9,Lulus
+MHS0652,Laki-laki,19,Teknik Elektro,5,10.1,85.5,3.05,6.6,8.6,Tidak,16.5,3.3,Kos,57.7,Tidak Lulus
+MHS0415,Laki-laki,22,Teknik Informatika,9,7.0,93.1,,5.0,1.8,Tidak,3.9,17.8,Rumah Orang Tua,66.8,Lulus
+MHS0004,Laki-laki,20,Matematika,5,17.6,74.5,3.77,4.8,6.6,Tidak,6.4,3.8,Asrama,65.0,Lulus
+MHS0059,Perempuan,20,Teknik Informatika,7,9.6,90.0,2.93,7.5,5.2,Tidak,3.4,4.2,Kos,58.0,Tidak Lulus
+MHS0224,Perempuan,21,Teknik Elektro,9,11.3,58.1,3.05,7.7,2.6,Tidak,,8.6,Rumah Orang Tua,54.4,Tidak Lulus
+MHS0620,Laki-laki,20,Teknik Informatika,5,16.2,81.3,3.61,6.5,1.9,Ya,6.6,,Kos,70.3,Lulus
+MHS0102,Laki-laki,20,Matematika,7,23.6,92.2,3.44,6.9,1.2,Tidak,4.3,4.5,Rumah Orang Tua,93.6,Lulus
+MHS0724,Perempuan,18,Teknik Elektro,1,4.9,76.6,2.78,6.3,0.7,Tidak,7.0,5.5,Kos,51.8,Tidak Lulus
+MHS0222,Laki-laki,21,Sistem Informasi,7,21.2,100.0,2.67,5.5,3.5,Ya,13.2,11.2,Kos,76.4,Lulus
+MHS0830,Laki-laki,21,Teknik Informatika,7,15.6,90.6,2.87,6.2,2.9,Tidak,11.5,19.5,Kos,65.2,Lulus
+MHS0005,Perempuan,20,Teknik Informatika,6,10.8,73.8,3.47,6.9,2.8,Tidak,2.7,19.0,Kos,66.9,Lulus
+MHS0053,Laki-laki,19,Statistika,5,13.5,,2.28,7.7,2.6,Ya,13.0,14.7,Rumah Orang Tua,61.8,Lulus
+MHS0018,Perempuan,21,Teknik Informatika,7,14.9,87.8,3.72,7.7,4.1,Tidak,15.9,9.0,Rumah Orang Tua,70.8,Lulus
+MHS0748,Perempuan,22,Sistem Informasi,9,9.2,100.0,3.83,5.9,1.4,Tidak,5.3,1.3,Asrama,79.1,Lulus
+MHS0916,Laki-laki,18,Teknik Elektro,2,16.2,65.7,2.63,6.3,3.3,Tidak,6.0,0.5,Rumah Orang Tua,62.2,Lulus
+MHS0307,Perempuan,19,Sistem Informasi,3,14.6,95.8,3.9,7.1,5.7,Tidak,9.1,1.2,Rumah Orang Tua,77.5,Lulus
+MHS0667,Perempuan,20,Statistika,6,12.1,100.0,3.43,6.9,3.6,ya,4.9,5.3,Kos,72.8,Lulus
+MHS0156,Laki-laki,21,Matematika,9,20.3,76.3,2.34,6.4,3.9,Tidak,5.2,1.9,Kos,65.6,Lulus
+MHS0964,Laki-laki,19,Teknik Informatika,5,8.1,100.0,2.94,6.8,1.6,Ya,9.1,1.4,Asrama,57.6,Tidak Lulus
+MHS0681,Perempuan,22,Teknik Informatika,11,11.1,75.3,3.3,5.1,3.0,Ya,5.3,2.7,Rumah Orang Tua,60.6,Lulus
+MHS0644,Laki-laki,18,Teknik Informatika,2,8.0,86.2,3.21,5.7,2.3,Ya,,5.0,Rumah Orang Tua,49.8,Tidak Lulus
+MHS0249,Perempuan,21,Sistem Informasi,7,21.9,75.3,3.07,6.6,3.6,Tidak,3.4,3.3,Rumah Orang Tua,69.4,Lulus
+MHS0250,Perempuan,22,Sistem Informasi,11,9.3,86.6,3.25,7.8,1.2,Ya,,1.3,Kos,65.7,Lulus
+MHS0359,Perempuan,21,Sistem Informasi,9,20.6,78.7,3.66,6.7,2.4,Tidak,11.4,7.8,Kos,79.4,Lulus
+MHS0479,Laki-laki,21,Matematika,7,5.6,82.6,,5.8,2.8,Ya,6.0,3.4,Kos,50.1,Tidak Lulus
+MHS0431,Perempuan,20,Teknik Elektro,5,23.7,89.8,3.16,,2.9,Tidak,9.8,4.5,Asrama,86.2,Lulus
+MHS0442,Laki-laki,20,Teknik Informatika,5,7.4,87.8,3.04,6.0,2.4,Tidak,14.9,13.1,Rumah Orang Tua,58.6,Tidak Lulus
+MHS0821,Perempuan,24,Teknik Informatika,14,2.8,76.2,3.15,6.8,4.0,Ya,,4.9,Rumah Orang Tua,44.8,Tidak Lulus
+MHS0854,Perempuan,21,Teknik Elektro,9,11.1,80.6,2.78,6.1,2.5,Ya,180.0,1.5,Kos,53.3,Tidak Lulus
+MHS0031,Perempuan,20,Statistika,5,20.5,100.0,2.99,7.2,3.0,Tidak,5.3,5.0,Rumah Orang Tua,86.9,Lulus
+MHS0282,Laki-laki,20,Teknik Informatika,7,21.4,82.2,,6.1,0.5,Tidak,6.9,2.0,Kos,81.2,Lulus
+MHS0877,Laki-laki,22,Sistem Informasi,10,3.7,93.8,2.99,5.8,2.0,Tidak,13.8,1.0,Kos,63.2,Lulus
+MHS0975,Laki-laki,20,Sistem Informasi,6,7.8,96.0,3.27,5.7,1.0,Tidak,11.3,0.4,Kos,64.0,Lulus
+MHS0118,Perempuan,18,Statistika,1,3.2,67.5,2.82,6.2,1.2,Ya,13.6,0.1,Kos,54.2,Tidak Lulus
+MHS0881,Laki-laki,20,Sistem Informasi,6,12.4,79.1,2.8,7.0,1.9,Ya,6.9,0.8,Rumah Orang Tua,64.7,Lulus
+MHS0117,Laki-laki,19,Statistika,3,14.3,88.8,,5.0,1.2,Tidak,8.4,12.2,Kos,73.4,Lulus
+MHS0759,Perempuan,19,Teknik Informatika,4,95.0,82.4,2.94,6.7,3.2,Ya,3.3,1.2,Rumah Orang Tua,61.9,Lulus
+MHS0669,Laki-laki,21,Teknik Informatika,9,19.5,84.6,2.65,7.7,4.9,Tidak,4.6,9.8,Rumah Orang Tua,77.4,Lulus
+MHS0292,Perempuan,18,Teknik Informatika,1,6.6,100.0,2.64,5.6,2.8,Ya,18.6,5.9,Asrama,57.2,Tidak Lulus
+MHS0028,Laki-laki,21,Teknik Informatika,8,10.8,83.9,3.7,6.4,3.0,Tidak,9.8,3.2,Rumah Orang Tua,70.6,Lulus
+MHS0382,Laki-laki,24,Teknik Elektro,14,28.2,95.4,3.49,4.9,6.1,Tidak,7.6,2.3,Asrama,81.2,Lulus
+MHS0308,Perempuan,21,Matematika,9,16.8,66.0,2.32,5.2,4.1,Ya,5.5,8.3,Rumah Orang Tua,57.0,Tidak Lulus
+MHS0511,Laki-laki,19,Teknik Informatika,3,9.5,79.1,3.08,7.4,3.6,Ya,2.1,2.8,Rumah Orang Tua,59.8,Tidak Lulus
+MHS0598,Laki-laki,20,Matematika,6,16.6,80.0,3.14,5.5,3.5,Tidak,3.1,5.5,Kos,65.3,Lulus
+MHS0201,Perempuan,21,Statistika,9,9.3,90.0,3.66,6.2,0.9,Tidak,3.6,4.1,Kos,78.3,Lulus
+MHS0719,P,21,Matematika,8,15.3,100.0,2.46,7.0,2.9,Ya,8.3,9.4,Kos,62.8,Lulus
+MHS0386,Laki-laki,23,Teknik Elektro,13,12.8,80.2,2.72,6.8,0.6,Tidak,14.9,5.1,Kos,61.7,Lulus
+MHS0717,Laki-laki,23,Matematika,11,8.2,80.4,4.0,,0.6,Ya,9.9,4.5,Kos,71.9,Lulus
+MHS0665,Perempuan,23,Sistem Informasi,11,12.0,91.3,,7.5,6.5,Ya,,6.7,Kos,65.0,Lulus
+MHS0911,Laki-laki,19,Statistika,3,11.8,79.0,2.88,8.9,0.4,Tidak,13.1,1.8,Rumah Orang Tua,67.4,Lulus
+MHS0800,Perempuan,22,Statistika,10,6.0,78.2,2.96,5.7,5.3,Tidak,6.8,4.7,Kos,64.0,Lulus
+MHS0542,Laki-laki,20,Matematika,6,3.7,81.2,3.17,5.2,4.9,Tidak,6.3,0.5,Kos,50.2,Tidak Lulus
+MHS0315,Laki-laki,20,Sistem Informasi,6,9.8,87.4,3.83,7.6,3.4,Tidak,4.7,2.6,Asrama,72.3,Lulus
+MHS0143,Perempuan,19,Teknik Elektro,3,17.1,72.7,3.67,5.9,1.8,Tidak,9.1,1.8,Kos,72.4,Lulus
+MHS0281,Laki-laki,19,Teknik Informatika,3,12.6,89.2,2.46,3.7,3.5,Tidak,3.3,2.9,Rumah Orang Tua,63.0,Lulus
+MHS0959,Perempuan,17,Sistem Informasi ,1,12.1,77.3,3.02,4.2,4.3,tidak,7.4,6.1,Rumah Orang Tua,54.5,Tidak Lulus
+MHS0761,Laki-laki,21,Statistika,8,21.0,58.7,2.94,16.0,5.1,Ya,4.9,12.3,Rumah Orang Tua,67.0,Lulus
+MHS0354,Laki-laki,22,Matematika,11,26.9,85.8,3.69,5.2,3.4,Tidak,6.4,3.6,Kos,86.9,Lulus
+MHS0741,Laki-laki,22,Teknik Informatika,10,16.2,,,5.1,1.1,Ya,3.9,1.1,Rumah Orang Tua,55.3,Tidak Lulus
+MHS0208,Laki-laki,22,Matematika,10,4.9,100.0,2.68,,5.8,Tidak,9.6,13.7,Rumah Orang Tua,51.6,Tidak Lulus
+MHS0380,Laki-laki,20,Statistika,7,12.9,65.3,3.53,7.5,4.7,Ya,2.7,5.6,Kos,53.3,Tidak Lulus
+MHS0769,Laki-laki,21,Teknik Informatika,8,12.5,79.9,2.82,7.1,2.5,Tidak,10.9,4.4,Rumah Orang Tua,62.3,Lulus
+MHS0413,Perempuan,20,Teknik Informatika,6,8.5,79.9,3.19,7.7,2.4,Ya,7.4,0.4,Rumah Orang Tua,59.0,Tidak Lulus
+MHS0797,Perempuan,20,Teknik Informatika,6,8.3,92.8,2.97,7.3,1.2,Tidak,7.0,1.2,Kos,62.4,Lulus
+MHS0024,Perempuan,23,Teknik Elektro,13,12.6,73.5,3.83,7.6,2.7,Ya,8.7,2.6,Rumah Orang Tua,71.8,Lulus
+MHS0341,Laki-laki,22,Teknik Informatika,10,6.2,,2.86,5.8,5.8,Tidak,7.2,7.6,Rumah Orang Tua,52.8,Tidak Lulus
+MHS0923,Laki-laki,20,Matematika,6,15.8,70.2,3.34,4.4,3.8,Tidak,9.1,1.7,Kos,66.2,Lulus
+MHS0642,Laki-laki,22,Statistika,9,13.6,88.0,2.95,7.0,2.2,Tidak,8.2,,Rumah Orang Tua,75.4,Lulus
+MHS0155,Perempuan,21,Teknik Informatika,9,17.0,86.9,3.36,6.3,3.2,Ya,,5.3,Kos,71.0,Lulus
+MHS0866,Perempuan,18,Teknik Elektro,3,7.7,70.5,3.7,7.2,4.7,Ya,4.1,2.3,Kos,60.6,Lulus
+MHS0559,Perempuan,22,Matematika,10,17.8,73.0,3.83,5.2,4.6,Tidak,4.8,3.9,Kos,74.9,Lulus
+MHS0999,Perempuan,17,Teknik Elektro,1,9.6,-5.0,3.12,6.7,3.8,Tidak,13.2,2.7,Rumah Orang Tua,61.6,Lulus
+MHS0969,Laki-laki,20,Matematika,6,11.8,81.2,2.49,6.0,0.6,Tidak,3.1,0.1,Asrama,52.4,Tidak Lulus
+MHS0791,Perempuan,22,Teknik Informatika,11,4.0,93.9,3.05,7.1,5.9,Tidak,4.2,5.8,Rumah Orang Tua,61.9,Lulus
+MHS0323,Laki-laki,23,Sistem Informasi,11,6.9,88.2,3.24,3.7,1.7,Tidak,,1.7,Rumah Orang Tua,66.3,Lulus
+MHS0545,Laki-laki,22,Teknik Informatika,9,11.4,72.4,3.69,6.2,2.8,Ya,15.6,8.7,Rumah Orang Tua,66.3,Lulus
+MHS0604,Perempuan,23,Statistika,12,5.4,88.0,3.66,7.1,2.7,Ya,4.4,2.9,Rumah Orang Tua,65.0,Lulus
+MHS0588,Perempuan,20,Sistem Informasi,7,14.5,86.9,3.0,4.5,2.8,Tidak,5.7,0.3,Kos,62.3,Lulus
+MHS0083,L,22,Statistika,9,16.3,82.9,3.17,6.7,3.8,Tidak,8.5,0.3,Rumah Orang Tua,72.3,Lulus
+MHS0862,Perempuan,18,Statistika,1,11.0,68.1,3.06,6.2,9.6,Ya,6.1,4.2,Rumah Orang Tua,45.8,Tidak Lulus
+MHS0465,Perempuan,17,Matematika,1,13.8,86.4,3.01,5.7,2.0,Tidak,11.8,4.2,Kos,77.4,Lulus
+MHS0553,Laki-laki,21,Teknik Informatika,7,15.5,97.7,3.73,8.1,0.5,Ya,9.1,4.1,Kos,82.1,Lulus
+MHS0334,Perempuan,22,Teknik Elektro,9,21.8,84.9,3.37,6.1,1.8,Tidak,26.1,0.7,Kos,82.1,Lulus
+MHS0011,Perempuan,21,Sistem Informasi,7,4.7,69.0,2.89,8.0,5.8,Tidak,4.9,,Kos,50.4,Tidak Lulus
+MHS0471,Perempuan,22,Sistem Informasi,9,8.5,100.0,2.39,6.0,5.5,Tidak,16.5,8.7,Rumah Orang Tua,57.7,Tidak Lulus
+MHS0033,Laki-laki,19,sistem informasi,4,23.4,73.3,3.15,6.0,2.5,Ya,6.5,0.9,Kos,68.8,Lulus
+MHS0783,Laki-laki,20,Sistem Informasi,6,4.3,81.2,2.74,7.8,1.9,Tidak,15.3,5.8,Rumah Orang Tua,61.4,Lulus
+MHS0883,Laki-laki,21,Teknik Elektro,9,6.0,93.9,2.97,4.9,2.7,Tidak,2.1,6.3,Rumah Orang Tua,60.1,Lulus
+MHS0383,Perempuan,22,Statistika,11,9.6,78.3,3.33,4.9,1.5,Tidak,5.2,3.9,Rumah Orang Tua,62.5,Lulus
+MHS0708,Laki-laki,20,Statistika,5,12.1,79.5,2.81,5.6,3.6,Tidak,21.0,2.8,Rumah Orang Tua,70.7,Lulus
+MHS0557,Perempuan,23,Teknik Informatika,12,9.3,,3.91,7.2,1.8,Ya,32.3,0.3,Rumah Orang Tua,60.1,Lulus
+MHS0907,Laki-laki,21,Sistem Informasi,9,13.0,94.2,2.59,5.5,5.2,Tidak,5.4,2.9,Rumah Orang Tua,50.9,Tidak Lulus
+MHS0915,Laki-laki,21,Teknik Elektro,7,24.0,86.6,3.93,7.7,4.7,Tidak,6.5,1.8,Rumah Orang Tua,83.4,Lulus
+MHS0379,Perempuan,20,Sistem Informasi,7,4.0,76.4,2.76,,5.1,Tidak,,7.5,Kos,59.5,Tidak Lulus
+MHS0090,Laki-laki,19,Sistem Informasi,3,7.4,82.1,2.69,5.1,3.4,Tidak,8.2,10.5,Rumah Orang Tua,56.4,Tidak Lulus
+MHS0214,Laki-laki,19,Statistika,5,13.6,53.8,2.98,6.4,4.9,Tidak,7.1,8.8,Kos,63.0,Lulus
+MHS0844,Perempuan,21,Sistem Informasi,9,11.1,68.2,3.23,6.7,1.3,Ya,13.2,0.8,Kos,63.3,Lulus
+MHS0134,Perempuan,20,Sistem Informasi,7,9.7,84.0,3.06,6.6,1.0,Ya,18.8,11.9,Rumah Orang Tua,55.3,Tidak Lulus
+MHS0347,Laki-laki,19,Teknik Elektro,3,6.0,80.7,3.79,6.7,3.5,Tidak,7.4,5.8,Rumah Orang Tua,58.3,Tidak Lulus
+MHS0008,Laki-laki,20,Statistika,5,6.8,100.0,2.88,7.6,4.1,Tidak,7.0,3.5,Asrama,49.1,Tidak Lulus
+MHS0619,Perempuan,21,Teknik Informatika,9,16.9,100.0,3.16,5.9,2.9,Tidak,7.6,,Rumah Orang Tua,71.9,Lulus
+MHS0321,Laki-laki,17,Teknik Elektro,1,11.5,89.0,2.69,4.1,4.4,Tidak,4.7,3.6,Rumah Orang Tua,53.9,Tidak Lulus
+MHS0910,Perempuan,19,Teknik Informatika,5,16.4,84.0,4.0,8.9,2.6,Tidak,8.2,1.4,Kos,80.2,Lulus
+MHS0188,Perempuan,24,Teknik Informatika,13,9.6,87.6,2.74,6.4,3.3,Tidak,60.0,21.8,Kos,71.9,Lulus
+MHS0305,Perempuan,21,Teknik Elektro,8,16.9,61.5,3.6,6.2,3.4,Tidak,4.2,3.9,Kos,69.5,Lulus
+MHS0032,Perempuan,21,Teknik Elektro,7,5.5,69.6,3.13,4.7,2.8,Tidak,,2.2,Kos,55.3,Tidak Lulus
+MHS0968,Perempuan,19,Teknik Informatika,4,10.2,87.1,2.99,7.9,4.7,Tidak,,1.7,Rumah Orang Tua,62.8,Lulus
+MHS0241,Perempuan,18,Statistika,1,15.3,78.8,1.87,5.7,1.5,Tidak,,,Rumah Orang Tua,59.5,Tidak Lulus
+MHS0729,Laki-laki,20,Sistem Informasi,7,7.8,74.3,2.81,6.8,0.8,Ya,5.9,1.6,Rumah Orang Tua,56.3,Tidak Lulus
+MHS0175,Laki-laki,22,Teknik Informatika,9,24.7,79.7,3.07,6.4,2.9,Ya,9.1,0.8,Kos,79.6,Lulus
+MHS0246,Laki-laki,20,Teknik Elektro,6,18.6,79.8,3.48,5.6,0.9,tidak,3.4,2.2,Rumah Orang Tua,75.5,Lulus
+MHS0057,Perempuan,23,Sistem Informasi,12,5.5,92.6,2.74,3.8,2.8,Tidak,9.2,2.3,Kos,49.7,Tidak Lulus
+MHS0753,Perempuan,17,Teknik Informatika,1,15.4,100.0,3.78,6.9,2.3,Tidak,2.4,5.5,Kos,83.1,Lulus
+MHS0146,Laki-laki,21,Teknik Informatika,7,12.5,67.4,2.6,6.7,1.0,Ya,10.0,11.5,Rumah Orang Tua,64.6,Lulus
+MHS0091,Laki-laki,19,Teknik Informatika,3,9.5,63.5,3.21,,1.9,Ya,7.4,2.3,Rumah Orang Tua,55.5,Tidak Lulus
+MHS0393,Laki-laki,20,Matematika,5,7.5,91.3,3.12,5.7,2.2,Ya,,5.1,Kos,58.4,Tidak Lulus
+MHS0311,Laki-laki,22,Sistem Informasi,11,7.7,98.4,2.86,5.4,3.7,Tidak,24.0,2.1,Kos,57.3,Tidak Lulus
+MHS0360,Laki-laki,21,Matematika,9,13.8,63.6,3.05,6.2,2.5,Tidak,4.3,3.7,Kos,71.6,Lulus
+MHS0094,Laki-laki,21,Sistem Informasi,8,27.2,77.2,2.55,6.3,2.1,Tidak,11.7,6.4,Asrama,82.6,Lulus
+MHS0694,Perempuan,21,Sistem Informasi,8,10.9,99.4,2.99,5.9,2.9,Tidak,14.4,2.8,Rumah Orang Tua,74.7,Lulus
+MHS0752,Laki-laki,21,Sistem Informasi,9,22.0,67.6,2.93,6.3,0.9,Ya,5.1,11.0,Kos,63.6,Lulus
+MHS0377,Perempuan,18,Teknik Elektro,1,6.2,72.7,2.29,8.0,1.9,Tidak,6.9,7.2,Asrama,66.5,Lulus
+MHS0244,Laki-laki,20,Sistem Informasi,7,7.2,80.9,2.88,7.6,3.0,Tidak,8.7,6.9,Asrama,55.6,Tidak Lulus
+MHS0827,Laki-laki,20,Matematika,7,16.6,100.0,3.5,7.8,6.0,Ya,4.0,0.9,Kos,73.4,Lulus
+MHS0088,Perempuan,23,Sistem Informasi,12,11.8,87.1,3.23,5.5,2.7,Tidak,8.8,7.0,Asrama,62.1,Lulus
+MHS0215,Laki-laki,20,Statistika,5,12.9,87.4,2.91,8.4,0.3,Tidak,12.2,1.3,Rumah Orang Tua,75.3,Lulus
+MHS0985,Perempuan,19,Teknik Informatika,5,7.7,76.8,2.16,6.5,3.7,Ya,12.8,0.7,Kos,47.0,Tidak Lulus
+MHS0174,Perempuan,21,Teknik Elektro,9,9.2,85.8,2.79,5.0,3.1,Tidak,7.5,1.3,Rumah Orang Tua,59.5,Tidak Lulus
+MHS0426,L,20,Statistika,5,10.3,99.4,1.84,6.8,4.9,Tidak,5.1,4.4,Asrama,54.2,Tidak Lulus
+MHS0777,Perempuan,19,Matematika,5,18.8,73.0,2.66,5.3,1.1,Tidak,13.9,1.0,Kos,70.2,Lulus
+MHS0119,Laki-laki,20,Sistem Informasi,5,26.7,83.6,2.5,5.3,3.8,Ya,6.6,1.0,Kos,71.0,Lulus
+MHS0120,Perempuan,21,Matematika,8,14.9,86.5,3.37,6.0,2.1,Ya,5.3,1.1,Rumah Orang Tua,78.2,Lulus
+MHS0720,Perempuan,20,Teknik Elektro,7,6.7,86.3,3.38,7.6,5.3,Ya,7.5,1.1,Rumah Orang Tua,59.6,Tidak Lulus
+MHS0001,Laki-laki,19,Statistika,3,11.3,79.9,1.84,7.0,3.1,Ya,6.3,35.9,Rumah Orang Tua,42.3,Tidak Lulus
+MHS0395,Perempuan,22,Teknik Informatika,11,7.6,85.3,,7.1,2.0,Ya,13.5,4.1,Rumah Orang Tua,61.0,Lulus
+MHS0402,Laki-laki,21,Teknik Elektro,9,5.7,79.5,3.46,8.1,1.4,Ya,5.7,,Kos,59.8,Tidak Lulus
+MHS0405,Laki-laki,23,Teknik Elektro,13,12.3,,2.16,7.1,2.0,Tidak,7.5,13.3,Kos,61.7,Lulus
+MHS0843,Laki-laki,20,Sistem Informasi,5,10.0,82.6,3.28,6.4,3.8,Tidak,5.9,0.4,Rumah Orang Tua,61.8,Lulus
+MHS0625,Laki-laki,22,Teknik Elektro,9,13.3,92.5,3.32,3.2,10.8,Tidak,5.5,5.2,Kos,54.9,Tidak Lulus
+MHS0163,Perempuan,21,Teknik Informatika,7,12.8,75.4,2.99,7.6,1.1,Tidak,5.5,8.7,Kos,74.8,Lulus
+MHS0115,Perempuan,20,Teknik Informatika,5,5.8,71.3,,9.8,2.5,Tidak,,5.3,Rumah Orang Tua,60.9,Lulus
+MHS0151,Laki-laki,20,Statistika,6,8.5,63.2,3.68,5.8,0.9,Tidak,5.6,3.3,Rumah Orang Tua,75.3,Lulus
+MHS0716,Perempuan,21,Teknik Informatika,7,4.5,57.0,2.72,7.1,3.0,Ya,5.5,3.3,Rumah Orang Tua,49.7,Tidak Lulus
+MHS0581,Perempuan,22,Sistem Informasi,11,22.5,92.4,2.83,7.7,3.6,Tidak,3.3,6.2,Rumah Orang Tua,81.9,Lulus
+MHS0807,Laki-laki,18,Matematika,3,5.7,74.0,2.57,5.7,1.4,Ya,4.2,2.7,Kos,49.4,Tidak Lulus
+MHS0369,Laki-laki,21,Sistem Informasi,7,13.0,95.5,3.39,5.9,3.0,Tidak,5.9,0.4,Kos,71.1,Lulus
+MHS0544,Laki-laki,20,Teknik Elektro,6,12.9,96.7,3.19,5.4,2.2,Ya,6.6,14.3,Rumah Orang Tua,71.9,Lulus
+MHS0478,Perempuan,19,Matematika,5,5.9,87.5,2.33,8.6,3.6,Ya,6.8,12.9,Rumah Orang Tua,51.7,Tidak Lulus
+MHS0533,Perempuan,22,Sistem Informasi,9,18.5,79.5,3.02,6.0,1.2,Tidak,3.9,3.4,Asrama,79.8,Lulus
+MHS0991,Laki-laki,21,Matematika,7,5.0,70.0,2.77,5.5,2.1,Tidak,4.4,19.0,Asrama,56.6,Tidak Lulus
+MHS0591,Laki-laki,20,Teknik Elektro,5,8.7,91.2,2.84,6.6,2.4,Tidak,10.3,2.4,Rumah Orang Tua,58.2,Tidak Lulus
+MHS0962,Laki-laki,23,Sistem Informasi,12,5.5,105.0,2.79,5.5,1.4,Tidak,9.5,,Rumah Orang Tua,56.7,Tidak Lulus
+MHS0259,Perempuan,23,Teknik Informatika,11,7.8,75.6,3.27,6.1,5.5,Tidak,3.8,2.6,Rumah Orang Tua,48.4,Tidak Lulus
+MHS0849,Laki-laki,19,Teknik Informatika,5,9.2,86.5,3.28,6.9,2.1,Ya,9.6,,Asrama,61.4,Lulus
+MHS0136,Laki-laki,21,Teknik Informatika,9,9.5,87.9,2.92,,1.4,Tidak,3.7,0.4,Kos,72.8,Lulus
+MHS0955,Perempuan,21,Teknik Elektro,9,12.8,60.7,2.58,4.4,2.3,Tidak,7.3,4.2,Rumah Orang Tua,57.4,Tidak Lulus
+MHS0900,Laki-laki,19,Sistem Informasi,4,13.4,79.0,2.56,6.2,2.6,Tidak,22.3,1.4,Kos,62.7,Lulus
+MHS0799,Perempuan,21,Statistika,7,18.6,99.8,3.41,5.0,2.7,Tidak,6.7,1.2,Kos,82.3,Lulus
+MHS0502,Perempuan,22,Teknik Elektro,11,6.3,67.5,3.46,4.6,2.7,Tidak,8.0,5.4,Asrama,61.8,Lulus
+MHS0539,Perempuan,19,Teknik Informatika,5,7.2,77.1,1.94,4.0,6.9,Tidak,10.1,0.4,Kos,41.1,Tidak Lulus
+MHS0656,Laki-laki,18,Sistem Informasi,1,16.4,71.3,2.94,8.0,1.9,Tidak,6.0,2.9,Rumah Orang Tua,70.7,Lulus
+MHS0582,Laki-laki,19,Sistem Informasi,4,9.4,89.3,2.93,5.9,1.7,Tidak,7.1,3.5,Kos,60.2,Lulus
+MHS0344,Perempuan,20,Matematika,6,9.8,83.6,2.74,6.4,3.6,Ya,7.9,0.3,Rumah Orang Tua,49.7,Tidak Lulus
+MHS0677,Perempuan,19,Teknik Elektro,3,11.2,94.0,,6.4,0.7,Tidak,4.1,0.2,Kos,67.7,Lulus
+MHS0624,Laki-laki,22,Sistem Informasi,10,12.7,81.3,3.12,6.8,0.7,Tidak,10.7,2.2,Kos,74.8,Lulus
+MHS0294,Laki-laki,20,Teknik Informatika,6,10.1,79.1,2.52,5.1,3.5,Tidak,4.3,1.6,Kos,52.9,Tidak Lulus
+MHS0365,Laki-laki,20,Matematika,7,14.2,88.4,2.28,6.2,1.4,Tidak,6.2,4.9,Kos,74.5,Lulus
+MHS0808,L,20,Teknik Informatika,5,6.9,80.5,3.41,6.5,5.3,Tidak,4.0,2.0,Kos,58.7,Tidak Lulus
+MHS0015,Laki-laki,22,Sistem Informasi,10,17.3,74.9,3.51,7.6,4.8,Tidak,2.3,0.6,Kos,62.3,Lulus
+MHS0087,Perempuan,21,Statistika,9,8.5,84.1,2.72,5.6,2.4,Tidak,11.6,8.6,Rumah Orang Tua,59.4,Tidak Lulus
+MHS0371,Laki-laki,21,Statistika,7,11.5,76.7,3.21,6.2,5.4,Tidak,4.8,8.1,Asrama,63.1,Lulus
+MHS0166,Perempuan,21,Sistem Informasi,9,17.2,91.4,3.23,5.3,0.5,Ya,7.1,0.9,Rumah Orang Tua,71.1,Lulus
+MHS0884,Perempuan,22,Sistem Informasi,11,14.2,100.0,2.87,7.0,9.9,Ya,8.2,8.2,Rumah Orang Tua,59.9,Tidak Lulus
+MHS0336,Perempuan,21,Matematika,7,7.7,79.7,2.46,6.6,1.1,Ya,12.2,0.1,Kos,49.2,Tidak Lulus
+MHS0060,Perempuan,23,Teknik Informatika,12,13.5,75.6,2.77,6.3,4.3,Tidak,12.6,1.2,Asrama,64.5,Lulus
+MHS0355,Perempuan,21,Sistem Informasi,8,3.7,83.4,2.62,9.2,2.6,Ya,8.5,1.0,Kos,53.9,Tidak Lulus
+MHS0425,Laki-laki,20,Matematika,5,7.4,93.5,2.87,7.0,3.4,Ya,13.3,7.4,Kos,58.6,Tidak Lulus
+MHS0293,Perempuan,19,Teknik Elektro,5,7.7,63.9,2.56,5.6,5.1,Tidak,4.5,4.1,Rumah Orang Tua,47.9,Tidak Lulus
+MHS0042,Perempuan,21,Statistika,8,11.2,80.3,3.38,5.5,1.2,Tidak,14.3,12.8,Kos,73.7,Lulus
+MHS0330,Laki-laki,21,Teknik Informatika,9,14.6,85.9,3.01,6.6,1.9,Tidak,5.9,1.4,Rumah Orang Tua,75.3,Lulus
+MHS0615,Perempuan,21,Teknik Informatika,7,11.4,78.4,3.29,6.3,4.0,Tidak,8.2,0.1,Kos,63.7,Lulus
+MHS0430,Laki-laki,21,Statistika,7,9.6,94.9,3.88,7.8,0.7,Tidak,2.0,7.9,Kos,70.4,Lulus
+MHS0080,Laki-laki,21,Statistika,7,8.0,55.3,3.66,4.0,0.7,Ya,3.7,0.8,Rumah Orang Tua,57.0,Tidak Lulus
+MHS0029,Perempuan,20,Teknik Informatika,7,18.4,79.6,3.47,3.8,1.1,Tidak,2.4,0.7,Rumah Orang Tua,70.4,Lulus
+MHS0255,Laki-laki,20,Teknik Informatika,6,7.3,62.3,2.94,6.2,1.7,Ya,6.8,5.9,Kos,54.5,Tidak Lulus
+MHS0751,Perempuan,20,Teknik Informatika,5,19.4,78.2,2.97,6.0,2.7,Tidak,6.2,0.8,Kos,72.3,Lulus
+MHS0459,Perempuan,18,Statistika,2,6.1,95.6,2.22,5.8,1.7,Ya,2.6,0.4,Kos,54.9,Tidak Lulus
+MHS0384,Perempuan,22,Sistem Informasi,9,16.9,77.5,2.9,7.3,1.8,Tidak,8.0,6.7,Kos,69.0,Lulus
+MHS0314,Laki-laki,18,Sistem Informasi,2,10.5,59.7,3.34,,4.3,Ya,5.0,6.1,Rumah Orang Tua,57.6,Tidak Lulus
+MHS0085,Perempuan,21,Teknik Informatika,7,10.8,75.8,2.79,4.4,1.6,Tidak,,9.3,Kos,59.9,Tidak Lulus
+MHS0575,Laki-laki,20,Teknik Elektro,5,9.1,84.7,2.88,8.6,6.1,Tidak,6.2,3.3,Kos,55.2,Tidak Lulus
+MHS0137,Laki-laki,21,Teknik Elektro,7,15.3,75.0,,5.9,2.4,Ya,4.2,3.3,Kos,66.4,Lulus
+MHS0112,Laki-laki,22,Teknik Informatika,10,13.5,84.0,3.77,8.1,3.6,Tidak,7.4,8.3,Rumah Orang Tua,70.8,Lulus
+MHS0195,Perempuan,21,Teknik Informatika,8,16.7,80.7,3.13,7.9,2.3,Tidak,3.4,6.3,Kos,73.2,Lulus
+MHS0179,Laki-laki,21,Teknik Elektro,8,15.0,100.0,3.48,6.7,0.7,Tidak,4.0,2.9,Kos,80.3,Lulus
+MHS0888,Laki-laki,21,Teknik Informatika,8,9.8,64.6,2.9,6.4,1.5,Tidak,18.5,0.9,Asrama,67.7,Lulus
+MHS0497,Perempuan,20,Sistem Informasi,5,10.7,87.4,2.89,7.0,4.8,Ya,12.3,0.1,Rumah Orang Tua,64.8,Lulus
+MHS0130,Perempuan,22,Matematika,10,10.1,80.1,2.54,7.2,1.0,Tidak,4.9,3.8,Kos,75.4,Lulus
+MHS0338,Perempuan,22,Statistika,9,18.8,41.1,3.81,4.3,1.9,Tidak,7.7,6.1,Kos,69.7,Lulus
+MHS0609,Laki-laki,23,Statistika,11,6.9,86.2,2.92,7.0,3.6,Tidak,6.8,5.1,Kos,61.8,Lulus
+MHS0125,Laki-laki,19,Teknik Informatika,4,13.6,100.0,3.05,6.7,2.7,Ya,13.3,5.9,Rumah Orang Tua,77.5,Lulus
+MHS0963,Perempuan,23,Teknik Informatika,13,14.2,88.1,3.56,6.2,6.7,Ya,7.3,11.3,Kos,67.2,Lulus
+MHS0227,Laki-laki,21,Teknik Informatika,8,4.7,62.9,2.54,6.2,5.8,Ya,3.5,7.8,Asrama,50.9,Tidak Lulus
+MHS0269,Laki-laki,19,Teknik Informatika,5,15.9,100.0,,6.7,1.8,Tidak,5.9,0.6,Rumah Orang Tua,79.3,Lulus
+MHS0980,Laki-laki,19,Teknik Informatika,5,13.3,70.5,3.76,7.7,7.3,Tidak,4.7,1.2,Rumah Orang Tua,78.9,Lulus
+MHS0453,Perempuan,20,Statistika,5,10.5,66.6,,6.4,1.5,Tidak,4.6,4.8,Kos,57.2,Tidak Lulus
+MHS0104,Perempuan,20,Teknik Elektro,7,4.5,65.1,3.47,8.0,2.4,Tidak,6.5,5.0,Rumah Orang Tua,61.1,Lulus
+MHS0594,Laki-laki,18,Matematika,1,23.5,70.2,2.87,7.7,7.3,Ya,7.8,17.0,Kos,61.8,Lulus
+MHS0855,Perempuan,19,Teknik Informatika,3,8.2,90.9,3.98,5.3,1.2,Tidak,4.9,4.6,Rumah Orang Tua,67.1,Lulus
+MHS0658,Perempuan,20,Teknik Informatika,5,10.4,64.6,3.19,9.1,5.0,Ya,5.8,2.2,Kos,53.5,Tidak Lulus
+MHS0228,Laki-laki,18,Matematika,3,6.0,82.5,2.24,4.3,3.7,Tidak,2.4,1.0,Kos,42.7,Tidak Lulus
+MHS0886,Laki-laki,20,Sistem Informasi,7,17.3,77.8,,7.1,3.6,Tidak,1.8,0.5,Kos,66.8,Lulus
+MHS0302,Perempuan,21,Teknik Informatika,9,6.3,100.0,2.36,4.1,7.9,Tidak,9.8,0.7,Kos,45.5,Tidak Lulus
+MHS0276,Laki-laki,21,Sistem Informasi,9,9.3,77.2,2.81,7.7,3.2,Tidak,7.2,0.3,Kos,63.6,Lulus
+MHS0127,Laki-laki,21,Sistem Informasi,9,10.5,86.0,1.76,7.2,5.0,Ya,5.1,3.6,Rumah Orang Tua,49.3,Tidak Lulus
+MHS0406,Laki-laki,23,Teknik Elektro,13,7.8,100.0,1.86,6.2,2.9,Tidak,2.9,13.6,Rumah Orang Tua,61.1,Lulus
+MHS0933,Perempuan,21,Sistem Informasi,8,17.2,100.0,3.19,5.6,2.2,Ya,,0.8,Kos,76.7,Lulus
+MHS0037,Laki-laki,21,Teknik Informatika,7,18.4,89.5,2.95,5.7,2.0,Tidak,10.3,3.4,Kos,77.1,Lulus
+MHS0140,Perempuan,21,Teknik Informatika,9,13.8,100.0,2.28,5.7,5.2,Tidak,11.6,0.8,Rumah Orang Tua,61.3,Lulus
+MHS0304,Laki-laki,22,Sistem Informasi,11,10.0,84.3,1.99,8.2,3.6,Tidak,2.8,15.6,Kos,64.1,Lulus
+MHS0268,Perempuan,21,Teknik Informatika,7,12.9,71.2,3.88,5.5,0.8,Tidak,5.6,3.5,Kos,76.4,Lulus
+MHS0534,Perempuan,22,Matematika,10,16.2,83.6,3.07,4.6,2.6,Ya,2.6,6.4,Asrama,65.7,Lulus
+MHS0546,Laki-laki,21,Sistem Informasi,9,5.5,81.0,2.43,7.1,2.1,Ya,6.7,1.8,Rumah Orang Tua,50.4,Tidak Lulus
+MHS0213,Perempuan,18,Teknik Informatika,3,5.5,81.9,3.02,7.5,4.2,Tidak,8.5,8.0,Rumah Orang Tua,59.3,Tidak Lulus
+MHS0469,Perempuan,20,Teknik Informatika,7,16.8,91.9,2.62,6.4,1.7,Tidak,8.6,10.0,Kos,66.9,Lulus
+MHS0199,Laki-laki,19,Teknik Informatika,5,21.4,100.0,3.08,7.2,2.0,Tidak,7.1,1.0,Rumah Orang Tua,78.6,Lulus
+MHS0528,Laki-laki,21,Teknik Elektro,8,6.6,100.0,3.34,7.8,4.1,Ya,3.9,3.5,Kos,57.8,Tidak Lulus
+MHS0795,Perempuan,22,Teknik Informatika,9,11.0,81.9,2.34,5.2,1.5,Tidak,9.0,1.3,Rumah Orang Tua,58.4,Tidak Lulus
+MHS0242,Laki-laki,20,Statistika,5,16.9,85.4,3.06,5.4,0.9,Tidak,1.4,7.5,Kos,78.2,Lulus
+MHS0343,Laki-laki,19,Statistika,3,17.9,77.8,2.95,8.0,1.5,Tidak,,5.9,Kos,74.1,Lulus
+MHS0550,Laki-laki,22,Sistem Informasi,10,4.4,84.1,3.62,6.9,1.9,Tidak,9.0,0.1,Rumah Orang Tua,71.3,Lulus
+MHS0387,Perempuan,20,Statistika,5,10.3,75.3,3.38,6.5,2.7,Ya,,2.0,Kos,60.6,Lulus
+MHS0861,Perempuan,20,Statistika,5,22.9,89.5,3.72,6.0,1.8,Tidak,,19.3,Kos,76.3,Lulus
+MHS0207,Perempuan,19,Teknik Informatika,3,14.8,90.1,2.84,6.2,2.5,Ya,9.2,1.4,Rumah Orang Tua,68.9,Lulus
+MHS0296,Laki-laki,19,Teknik Elektro,5,14.7,76.4,3.19,7.6,6.1,Ya,6.7,20.3,Kos,61.3,Lulus
+MHS0772,Perempuan,19,Matematika,4,9.2,79.3,2.59,5.8,5.3,Ya,4.0,1.0,Rumah Orang Tua,52.7,Tidak Lulus
+MHS0074,Perempuan,21,Teknik Informatika,7,27.3,86.2,2.32,8.1,1.4,Tidak,5.9,1.6,Rumah Orang Tua,89.5,Lulus
+MHS0747,Perempuan,19,Sistem Informasi,5,12.7,81.2,2.44,4.9,7.1,Tidak,7.4,0.8,Kos,57.7,Tidak Lulus
+MHS0105,Laki-laki,19,Statistika,3,8.9,87.5,3.43,5.9,3.0,Ya,,6.8,Kos,69.2,Lulus
+MHS0690,Laki-laki,23,Sistem Informasi,12,8.6,79.4,3.46,7.2,0.9,Ya,7.0,10.2,Kos,64.9,Lulus
+MHS0875,Perempuan,24,Statistika,13,27.6,67.0,3.1,6.3,1.6,Tidak,4.8,0.1,Kos,81.2,Lulus
+MHS0967,Perempuan,21,Teknik Elektro,9,10.7,75.6,2.41,6.9,0.4,Tidak,3.7,3.3,Rumah Orang Tua,52.6,Tidak Lulus
+MHS0017,Perempuan,20,Matematika,6,14.5,85.9,3.43,5.6,2.2,Tidak,7.1,0.9,Asrama,78.5,Lulus
+MHS0440,P,19,Matematika,5,14.9,96.5,2.5,5.3,2.6,Tidak,12.1,0.1,Rumah Orang Tua,69.9,Lulus
+MHS0092,Perempuan,21,Matematika,9,7.8,74.6,2.95,6.6,5.0,Tidak,,9.7,Rumah Orang Tua,57.1,Tidak Lulus
+MHS0089,Laki-laki,19,Teknik Informatika,4,16.7,86.8,2.8,7.5,2.9,Tidak,,12.8,Kos,64.1,Lulus
+MHS0451,Perempuan,18,Teknik Informatika,2,11.2,84.1,2.95,6.4,3.3,Tidak,4.1,2.0,Rumah Orang Tua,57.1,Tidak Lulus
+MHS0103,Perempuan,18,Teknik Informatika,1,7.7,80.1,3.1,5.8,1.8,Tidak,8.2,0.5,Kos,61.5,Lulus
+MHS0239,Laki-laki,21,Teknik Informatika,8,13.4,86.5,3.95,5.5,5.3,Tidak,8.4,3.8,Asrama,72.6,Lulus
+MHS0723,Perempuan,21,Teknik Informatika,8,5.5,93.4,2.89,5.0,1.9,Tidak,5.7,0.6,Rumah Orang Tua,57.0,Tidak Lulus
+MHS0247,Perempuan,20,Matematika,5,12.2,74.2,3.0,7.4,3.6,tidak,3.1,3.2,Kos,57.1,Tidak Lulus
+MHS0715,Laki-laki,20,Statistika,5,9.7,69.3,2.68,5.2,3.5,Tidak,2.6,0.4,Kos,60.9,Lulus
+MHS0158,Laki-laki,22,Matematika,9,16.0,94.3,3.31,6.4,2.4,Tidak,4.8,6.0,Kos,77.6,Lulus
+MHS0480,Laki-laki,20,Sistem Informasi,5,11.4,78.1,3.65,7.3,4.0,Tidak,2.7,4.1,Asrama,68.1,Lulus
+MHS0646,Laki-laki,20,Teknik Elektro,7,12.7,90.6,2.08,5.2,2.5,Ya,8.8,4.6,Asrama,58.7,Tidak Lulus
+MHS0847,Laki-laki,22,Sistem Informasi,9,7.4,81.0,3.84,6.0,1.9,Tidak,4.7,0.6,Kos,66.3,Lulus
+MHS0989,Perempuan,20,Sistem Informasi,7,3.7,100.0,3.33,7.3,0.8,Ya,2.4,0.6,Kos,53.2,Tidak Lulus
+MHS0019,Laki-laki,23,Statistika,12,9.8,81.9,3.3,5.5,1.2,Tidak,9.1,7.1,Kos,59.4,Tidak Lulus
+MHS0707,Laki-laki,20,Statistika,6,19.4,97.4,2.78,,2.3,Tidak,14.3,3.5,Kos,77.9,Lulus
+MHS0122,Laki-laki,20,Matematika,7,14.6,67.6,3.55,5.8,3.8,Tidak,4.3,16.6,Rumah Orang Tua,74.1,Lulus
+MHS0838,Laki-laki,19,Teknik Elektro,3,6.7,70.2,2.53,6.7,1.8,Ya,9.0,3.1,Kos,53.0,Tidak Lulus
+MHS0706,Perempuan,19,Matematika,4,3.0,87.9,2.6,7.9,3.7,Ya,6.7,1.7,Kos,53.5,Tidak Lulus
+MHS0275,Laki-laki,21,Matematika,9,12.7,85.0,2.93,5.7,3.3,Tidak,6.9,8.9,Kos,59.7,Tidak Lulus
+MHS0434,Laki-laki,22,Statistika,9,11.1,78.7,3.05,5.6,3.0,Tidak,6.3,1.4,Rumah Orang Tua,66.1,Lulus
+MHS0899,Laki-laki,21,teknik informatika,9,3.1,65.5,1.81,7.2,2.7,Tidak,7.2,2.6,Rumah Orang Tua,52.4,Tidak Lulus
+MHS0312,Perempuan,21,Sistem Informasi,7,12.1,82.5,2.43,5.3,1.2,Ya,7.0,3.2,Kos,65.5,Lulus
+MHS0832,Perempuan,21,Matematika,7,4.6,75.1,2.93,7.8,2.6,Tidak,4.0,15.6,Rumah Orang Tua,62.9,Lulus
+MHS0837,Laki-laki,20,Statistika,7,6.4,68.6,3.62,6.6,2.1,Tidak,7.0,12.5,Kos,66.1,Lulus
+MHS0547,Laki-laki,21,Sistem Informasi,8,12.1,83.5,4.0,5.5,2.1,Tidak,,8.0,Rumah Orang Tua,70.4,Lulus
+MHS0182,Laki-laki,21,Teknik Elektro,8,7.2,86.5,3.1,6.4,3.4,Tidak,17.5,7.2,Kos,63.4,Lulus
+MHS0185,Laki-laki,22,Statistika,10,11.9,79.4,2.98,6.2,6.5,Tidak,2.6,12.1,Kos,70.0,Lulus
+MHS0407,Perempuan,19,Teknik Informatika,5,9.5,77.3,2.85,7.7,2.7,Ya,9.6,5.5,Asrama,60.8,Lulus
+MHS0607,Perempuan,21,Teknik Elektro,9,7.8,92.3,2.89,6.6,2.1,Ya,4.7,10.5,Asrama,61.5,Lulus
+MHS0693,Laki-laki,20,Teknik Informatika,6,11.4,87.3,2.37,7.2,0.9,Tidak,8.3,1.1,Kos,61.2,Lulus
+MHS0521,Laki-laki,21,Teknik Elektro,7,8.3,90.0,2.76,7.2,6.9,Tidak,7.7,4.1,Rumah Orang Tua,70.2,Lulus
+MHS0381,Laki-laki,21,Matematika,9,3.1,90.4,2.91,6.2,2.0,Ya,9.5,2.5,Asrama,56.5,Tidak Lulus
+MHS0411,Perempuan,23,Matematika,11,22.2,84.4,3.57,6.7,4.1,Tidak,8.0,0.7,Rumah Orang Tua,72.5,Lulus
+MHS0635,Perempuan,21,Teknik Informatika,7,15.6,75.6,4.0,5.7,3.4,Tidak,6.0,1.8,Kos,76.2,Lulus
+MHS0370,Laki-laki,17,Teknik Elektro,1,7.1,82.3,2.83,4.7,6.5,Tidak,11.9,2.6,Rumah Orang Tua,42.3,Tidak Lulus
+MHS0815,Perempuan,22,Teknik Informatika,11,11.2,79.9,3.79,5.9,4.7,Ya,,1.9,Kos,53.0,Tidak Lulus
+MHS0835,Laki-laki,20,Statistika,5,14.2,68.1,3.83,7.0,1.9,Tidak,10.4,0.9,Kos,63.9,Lulus
+MHS0755,Laki-laki,20,Matematika,7,8.9,72.8,3.22,,2.6,Ya,5.8,3.0,Kos,52.2,Tidak Lulus
+MHS0079,Perempuan,20,Matematika,5,32.4,76.1,3.82,7.4,6.3,Tidak,11.0,6.5,Kos,96.3,Lulus
+MHS0574,Perempuan,22,Statistika,9,8.5,64.4,3.5,5.8,3.9,Tidak,4.3,4.2,Rumah Orang Tua,60.4,Lulus
+MHS0638,Perempuan,21,Statistika,9,3.5,95.2,2.98,7.9,5.7,Tidak,7.7,3.6,Kos,59.7,Tidak Lulus
+MHS0608,Laki-laki,22,Teknik Informatika,10,10.9,55.6,3.27,6.5,1.9,Ya,12.6,0.7,Kos,55.8,Tidak Lulus
+MHS0796,Laki-laki,21,Sistem Informasi,9,8.8,,2.85,5.2,3.0,Tidak,,5.0,Kos,55.1,Tidak Lulus
+MHS0996,Perempuan,19,Sistem Informasi,4,8.2,80.3,2.67,6.2,2.5,Tidak,5.3,2.4,Rumah Orang Tua,62.5,Lulus
+MHS0863,Perempuan,22,Statistika,9,23.2,85.4,2.46,7.2,3.5,Ya,4.2,3.3,Rumah Orang Tua,70.7,Lulus
+MHS0926,Laki-laki,21,Teknik Informatika,9,7.6,79.2,2.85,6.7,5.6,Ya,,1.8,Rumah Orang Tua,56.5,Tidak Lulus
+MHS0417,Perempuan,20,Teknik Informatika,5,5.2,81.6,3.6,6.7,1.1,Tidak,3.5,1.5,Kos,76.3,Lulus
+MHS0744,Perempuan,21,Teknik Informatika,9,13.2,88.6,3.41,7.6,3.4,Tidak,11.9,6.2,Rumah Orang Tua,64.4,Lulus
+MHS0562,Perempuan,21,Teknik Informatika,9,13.2,90.5,2.51,5.5,5.0,Tidak,5.5,7.6,Rumah Orang Tua,69.5,Lulus
+MHS0068,Perempuan,21,Sistem Informasi,8,10.6,73.3,2.69,6.2,2.1,Tidak,4.0,5.2,Rumah Orang Tua,61.2,Lulus
+MHS0537,Perempuan,20,Sistem Informasi,6,14.9,64.6,2.75,7.1,1.3,Tidak,7.5,0.9,Kos,75.4,Lulus
+MHS0078,Laki-laki,21,Matematika,8,13.8,72.8,4.0,4.4,0.7,Tidak,30.6,0.9,Rumah Orang Tua,84.4,Lulus
+MHS0106,Perempuan,18,Statistika,3,11.3,84.6,3.21,6.9,1.6,Tidak,10.3,10.8,Rumah Orang Tua,73.2,Lulus
+MHS0050,Laki-laki,19,Teknik Informatika,4,9.2,76.3,3.13,6.8,1.9,Tidak,4.2,6.7,Kos,58.8,Tidak Lulus
+MHS0782,Perempuan,19,Teknik Elektro,3,8.4,79.7,3.05,,3.4,Tidak,5.7,4.2,Rumah Orang Tua,61.7,Lulus
+MHS0639,Laki-laki,21,Statistika,8,15.7,,3.56,6.0,2.6,Ya,4.9,4.2,Kos,62.2,Lulus
+MHS0560,Perempuan,21,Sistem Informasi,7,7.5,,2.75,6.6,0.8,Tidak,3.1,0.3,Kos,63.8,Lulus
+MHS0762,Laki-laki,21,Teknik Informatika,9,10.9,77.4,3.15,7.0,2.4,Ya,5.0,1.7,Kos,68.4,Lulus
+MHS0691,Perempuan,20,Teknik Informatika,6,26.7,83.8,3.72,5.8,4.4,Tidak,250.0,2.7,Kos,80.3,Lulus
+MHS0870,Perempuan,21,Teknik Informatika,9,6.6,99.8,2.61,8.1,0.7,Tidak,,3.8,Asrama,71.9,Lulus
+MHS0953,Perempuan,21,Teknik Informatika,8,14.3,74.1,2.98,6.2,1.6,Tidak,5.2,8.0,Asrama,65.5,Lulus
+MHS0872,Laki-laki,23,Teknik Informatika,11,17.9,75.3,3.28,6.6,2.3,Ya,13.5,,Asrama,71.8,Lulus
+MHS0736,Perempuan,45,Matematika,3,14.9,77.7,3.19,4.5,1.9,Tidak,9.2,3.9,Kos,60.7,Lulus
+MHS0780,Laki-laki,20,Teknik Elektro,6,4.6,72.0,3.31,4.5,4.2,Tidak,3.0,9.5,Asrama,54.8,Tidak Lulus
+MHS0491,Laki-laki,24,Statistika,14,13.2,88.9,3.37,6.2,0.8,Ya,,2.1,Kos,70.3,Lulus
+MHS0508,Laki-laki,20,Statistika,6,9.6,84.1,3.12,8.3,3.0,Tidak,5.8,11.2,Kos,63.1,Lulus
+MHS0846,Perempuan,20,Teknik Elektro,6,16.3,95.6,3.37,5.1,1.7,Tidak,11.3,3.0,Kos,88.7,Lulus
+MHS0606,Laki-laki,21,Statistika,9,7.9,74.3,3.1,7.4,3.6,Tidak,11.4,0.1,Kos,59.4,Tidak Lulus
+MHS0364,Laki-laki,24,Teknik Informatika,14,6.1,100.0,2.49,,3.8,Tidak,3.1,11.6,Kos,68.3,Lulus
+MHS0070,Laki-laki,19,Sistem Informasi,3,12.1,53.7,2.86,6.2,4.7,Tidak,17.0,13.1,Rumah Orang Tua,47.3,Tidak Lulus
+MHS0549,Laki-laki,21,Statistika,9,12.8,87.3,3.15,6.5,4.5,Tidak,4.3,14.6,Asrama,58.9,Tidak Lulus
+MHS0161,Laki-laki,20,Teknik Informatika,7,13.4,100.0,3.14,7.1,3.7,Tidak,5.9,1.5,Kos,76.7,Lulus
+MHS0012,Perempuan,21,Teknik Elektro,8,4.8,94.2,3.67,7.2,4.0,Tidak,4.1,7.5,Rumah Orang Tua,58.5,Tidak Lulus
+MHS0145,Laki-laki,23,Sistem Informasi,13,15.0,98.1,3.61,5.7,2.0,Ya,9.0,4.5,Rumah Orang Tua,70.7,Lulus
+MHS0518,Perempuan,21,Statistika,7,7.2,89.3,2.96,7.2,6.3,Tidak,6.7,2.1,Kos,59.7,Tidak Lulus
+MHS0428,Laki-laki,18,Statistika,3,6.7,81.6,3.57,7.0,2.4,Tidak,10.6,2.7,Rumah Orang Tua,65.9,Lulus
+MHS0640,Perempuan,18,Teknik Elektro,1,13.6,71.6,2.76,5.4,3.1,Ya,9.2,7.7,Kos,54.9,Tidak Lulus
+MHS0177,Laki-laki,24,Sistem Informasi,14,9.0,85.5,2.57,6.0,4.6,Tidak,6.7,7.7,Kos,61.1,Lulus
+MHS0441,Laki-laki,19,Teknik Elektro,5,6.4,69.6,3.69,5.3,2.7,Tidak,4.3,3.6,Rumah Orang Tua,63.2,Lulus
+MHS0522,Perempuan,18,Sistem Informasi,1,13.4,48.7,3.23,6.6,1.0,Ya,7.7,1.8,Kos,62.2,Lulus
+MHS0873,Perempuan,23,Teknik Elektro,11,15.7,68.3,2.7,7.1,2.1,Tidak,4.1,5.8,Kos,65.0,Lulus
+MHS0960,Perempuan,21,Sistem Informasi,7,11.7,71.3,2.69,6.3,6.2,Tidak,7.6,1.3,Rumah Orang Tua,57.0,Tidak Lulus
+MHS0689,Perempuan,19,Statistika,3,10.9,78.7,2.6,6.3,0.6,Ya,7.5,3.9,Kos,55.7,Tidak Lulus
+MHS0232,Perempuan,20,Sistem Informasi,7,31.9,89.2,2.76,6.3,2.6,Tidak,7.4,8.6,Rumah Orang Tua,90.7,Lulus
+MHS0211,Perempuan,22,Matematika,10,8.8,48.7,2.81,6.0,3.6,Ya,18.6,4.0,Rumah Orang Tua,48.0,Tidak Lulus
+MHS0641,Perempuan,19,Statistika,3,7.0,83.9,3.28,7.8,2.3,tidak,8.0,0.9,Asrama,60.3,Lulus
+MHS0144,Perempuan,18,Matematika,2,21.0,88.1,3.41,4.8,2.3,Tidak,8.0,15.4,Kos,74.5,Lulus
+MHS0754,Perempuan,21,Sistem Informasi,8,24.2,84.9,3.8,5.0,3.1,Ya,13.5,3.4,Rumah Orang Tua,88.0,Lulus
+MHS0520,Laki-laki,19,Statistika,3,14.2,64.2,2.16,7.0,6.6,Tidak,,15.8,Kos,54.5,Tidak Lulus
+MHS0263,Laki-laki,20,Sistem Informasi,6,6.2,70.1,2.87,5.6,6.7,Tidak,3.2,5.9,Asrama,51.3,Tidak Lulus
+MHS0299,Perempuan,17,Statistika,1,7.5,83.8,3.69,5.0,2.1,Tidak,4.8,1.2,Rumah Orang Tua,71.8,Lulus
+MHS0767,Perempuan,22,Teknik Informatika,10,14.9,100.0,2.67,7.1,2.7,Tidak,,1.0,Kos,79.6,Lulus
+MHS0429,Perempuan,20,Teknik Informatika,5,11.4,94.1,3.6,7.1,1.0,Ya,8.7,9.5,Kos,68.1,Lulus
+MHS0613,Perempuan,21,Teknik Elektro,8,8.6,78.4,2.81,7.3,6.3,Tidak,3.6,0.7,Kos,57.0,Tidak Lulus
+MHS0931,Perempuan,21,Teknik Informatika,9,12.8,100.0,2.1,7.3,5.4,Tidak,7.4,3.2,Kos,61.3,Lulus
+MHS0940,Laki-laki,20,Teknik Informatika,7,17.7,100.0,,6.1,1.0,ya,3.1,1.4,Kos,71.3,Lulus
+MHS0009,Perempuan,20,Teknik Informatika,7,6.4,63.9,2.59,5.6,4.6,Ya,2.7,1.4,Rumah Orang Tua,60.0,Lulus
+MHS0157,Laki-laki,21,Teknik Informatika,7,7.8,71.9,2.29,7.9,4.6,Tidak,6.8,0.7,Rumah Orang Tua,59.6,Tidak Lulus
+MHS0540,Laki-laki,22,Statistika,10,17.4,65.2,3.88,4.7,4.5,Ya,8.9,4.0,Rumah Orang Tua,72.1,Lulus
+MHS0507,Perempuan,19,Sistem Informasi,3,11.0,89.1,2.7,4.3,2.1,Tidak,5.9,1.8,Rumah Orang Tua,59.3,Tidak Lulus
+MHS0437,Laki-laki,21,Teknik Informatika,9,13.0,95.6,4.0,6.1,4.8,Tidak,3.2,2.3,Rumah Orang Tua,68.1,Lulus
+MHS0267,Laki-laki,19,Teknik Informatika,3,7.6,89.2,3.68,6.7,4.3,Tidak,12.1,2.2,Rumah Orang Tua,61.4,Lulus
+MHS0462,Perempuan,19,Teknik Informatika,4,13.2,81.3,,8.1,1.8,Ya,10.9,0.7,Kos,66.3,Lulus
+MHS0577,Perempuan,21,Teknik Elektro,9,9.4,84.4,3.06,6.9,1.3,Ya,2.5,1.4,Kos,58.9,Tidak Lulus
+MHS0339,Perempuan,20,Teknik Informatika,5,7.4,100.0,3.4,6.5,2.3,Tidak,15.9,2.4,Kos,64.4,Lulus
+MHS0256,Perempuan,22,Statistika,9,10.6,86.6,2.86,5.7,1.0,Ya,7.5,5.3,Asrama,67.8,Lulus
+MHS0806,Perempuan,20,Teknik Informatika,6,7.1,92.7,3.24,4.9,1.3,Ya,6.1,18.7,Rumah Orang Tua,59.5,Tidak Lulus
+MHS0974,Laki-laki,19,Teknik Elektro,3,12.9,79.0,3.07,6.0,3.4,Tidak,11.0,0.6,Rumah Orang Tua,66.2,Lulus
+MHS0666,Perempuan,20,Statistika,6,6.2,90.5,2.71,7.1,6.6,Ya,4.9,0.1,Kos,46.6,Tidak Lulus
+MHS0561,Perempuan,20,Teknik Informatika,7,24.7,79.5,2.98,6.4,2.0,Ya,13.7,1.5,Rumah Orang Tua,86.8,Lulus
+MHS0209,Laki-laki,21,TEKNIK INFORMATIKA,7,11.5,58.0,3.2,7.5,0.8,Tidak,3.3,13.1,Rumah Orang Tua,63.2,Lulus
+MHS0288,Laki-laki,19,Sistem Informasi,3,22.1,72.4,3.83,5.4,2.7,Tidak,9.2,3.3,Rumah Orang Tua,78.6,Lulus
+MHS0002,Laki-laki,22,Sistem Informasi,10,9.0,81.5,3.11,6.6,2.6,Tidak,5.6,4.5,Rumah Orang Tua,74.2,Lulus
+MHS0342,Perempuan,24,Teknik Elektro,14,15.9,100.0,3.71,6.9,1.6,Tidak,8.1,5.3,Kos,78.3,Lulus
+MHS0270,Laki-laki,19,Teknik Informatika,3,13.0,77.8,3.26,5.9,2.4,Tidak,10.5,,Kos,75.5,Lulus
+MHS0266,Perempuan,21,Teknik Informatika,7,12.4,98.5,2.57,7.0,4.5,Ya,5.7,7.7,Asrama,63.4,Lulus
+MHS0816,Perempuan,22,Teknik Elektro,10,9.5,66.2,3.04,6.7,1.5,Tidak,6.5,0.5,Asrama,59.2,Tidak Lulus
+MHS0823,Perempuan,20,Teknik Informatika,7,8.5,100.0,2.51,6.6,8.7,Ya,6.2,1.1,Kos,52.5,Tidak Lulus
+MHS0096,Laki-laki,22,Matematika,9,15.0,99.1,2.68,6.2,1.9,Ya,6.3,2.8,Rumah Orang Tua,69.0,Lulus
+MHS0973,Perempuan,21,TEKNIK INFORMATIKA,8,24.7,100.0,,6.9,6.2,Tidak,4.0,0.5,Rumah Orang Tua,70.1,Lulus
+MHS0043,Perempuan,20,Statistika,6,4.2,70.3,3.01,6.5,2.2,Tidak,3.4,5.8,Rumah Orang Tua,59.5,Tidak Lulus
+MHS0805,Perempuan,22,Teknik Informatika,10,4.5,81.6,2.41,7.0,1.6,Ya,5.9,2.3,Asrama,57.0,Tidak Lulus
+MHS0243,P,21,Teknik Informatika,7,4.7,94.0,2.65,5.8,3.7,Tidak,3.7,8.0,Rumah Orang Tua,50.1,Tidak Lulus
+MHS0903,Perempuan,21,Teknik Informatika,8,9.3,85.4,3.62,5.8,3.1,Tidak,7.2,2.3,Asrama,76.6,Lulus
+MHS0629,Laki-laki,21,Matematika,8,7.7,73.2,3.24,6.8,2.5,Tidak,11.0,12.3,Kos,56.0,Tidak Lulus
+MHS0046,Laki-laki,20,Statistika,7,10.4,99.7,3.1,7.3,2.2,Ya,4.5,14.0,Kos,71.8,Lulus
+MHS0162,Perempuan,21,Teknik Elektro,9,8.6,69.3,3.2,4.4,2.7,Ya,3.5,,Kos,63.6,Lulus
+MHS0728,Perempuan,22,Teknik Informatika,10,8.2,97.4,3.21,7.1,2.3,Tidak,7.1,8.6,Rumah Orang Tua,66.3,Lulus
+MHS0630,Laki-laki,21,Statistika,9,5.2,77.2,3.77,,5.0,Tidak,10.1,1.5,Rumah Orang Tua,58.2,Tidak Lulus
+MHS0289,Laki-laki,22,Sistem Informasi,9,9.3,92.4,3.56,5.8,0.8,Tidak,14.8,0.5,Rumah Orang Tua,61.3,Lulus
+MHS0590,Laki-laki,20,Teknik Informatika,5,20.3,90.5,2.86,4.5,4.6,Ya,3.6,2.0,Kos,65.7,Lulus
+MHS0319,Perempuan,22,Teknik Informatika,11,8.9,91.2,2.4,5.7,7.4,Ya,3.4,3.1,Rumah Orang Tua,56.3,Tidak Lulus
+MHS0957,Perempuan,23,Statistika,13,16.2,85.9,2.49,6.4,1.7,Ya,8.8,20.7,Kos,70.1,Lulus
+MHS0576,Laki-laki,22,SISTEM INFORMASI,11,11.9,100.0,2.58,4.9,5.5,Tidak,10.1,3.3,Kos,55.8,Tidak Lulus
+MHS0316,Perempuan,21,Sistem Informasi,9,10.1,89.9,3.48,5.9,1.1,Ya,19.1,0.7,Kos,70.2,Lulus
+MHS0893,Perempuan,20,Teknik Informatika,7,5.0,100.0,2.76,5.7,2.4,Tidak,7.1,1.9,Rumah Orang Tua,52.4,Tidak Lulus
+MHS0231,Laki-laki,21,Teknik Informatika,7,9.7,91.3,2.65,6.4,1.6,Ya,3.0,1.3,Asrama,61.6,Lulus
+MHS0810,Laki-laki,20,Teknik Elektro,7,20.9,92.4,3.62,6.3,2.1,Tidak,4.7,6.9,Kos,76.9,Lulus
+MHS0699,Perempuan,19,Matematika,5,21.8,100.0,3.42,6.7,2.8,Tidak,6.6,8.2,Asrama,81.3,Lulus
+MHS0829,Perempuan,22,Teknik Elektro,10,11.6,78.8,2.61,5.7,2.3,Tidak,5.3,1.8,Kos,65.2,Lulus
+MHS0712,Laki-laki,20,Matematika,6,7.3,64.4,2.81,5.3,2.2,Ya,5.1,1.8,Rumah Orang Tua,41.3,Tidak Lulus
+MHS0077,Perempuan,20,Teknik Informatika,7,20.7,90.7,3.34,5.8,0.6,Tidak,7.2,,Kos,77.8,Lulus
+MHS0634,Perempuan,21,Sistem Informasi,8,10.3,89.7,2.22,6.5,4.8,Tidak,16.0,0.6,Rumah Orang Tua,60.8,Lulus
+MHS0979,Perempuan,22,Sistem Informasi,9,7.6,95.0,,5.9,0.8,Tidak,,7.7,Asrama,60.4,Lulus
+MHS0248,Laki-laki,21,Sistem Informasi,9,13.9,88.3,,8.8,2.4,Tidak,5.5,3.5,Rumah Orang Tua,76.9,Lulus
+MHS0820,Perempuan,20,Teknik Informatika,7,9.4,81.6,2.6,5.3,1.0,Tidak,12.0,2.1,Asrama,60.6,Lulus
+MHS0981,Perempuan,17,Teknik Elektro,1,19.0,82.3,2.45,6.0,2.0,Tidak,7.3,0.6,Rumah Orang Tua,73.4,Lulus
+MHS0477,Laki-laki,22,Sistem Informasi,9,12.1,87.2,2.59,6.2,3.1,Ya,5.6,3.7,Asrama,57.5,Tidak Lulus
+MHS0671,Laki-laki,20,Teknik Informatika,6,4.4,78.0,3.35,7.2,0.3,Tidak,,2.4,Kos,67.6,Lulus
+MHS0086,Perempuan,22,Teknik Informatika,10,7.2,67.3,3.05,5.5,2.8,Tidak,8.1,0.1,Kos,66.3,Lulus
+MHS0470,Laki-laki,21,Sistem Informasi,7,4.4,100.0,,5.9,0.8,Ya,5.4,0.7,Rumah Orang Tua,55.0,Tidak Lulus
+MHS0226,Perempuan,23,Teknik Elektro,13,7.3,71.8,3.05,7.9,1.9,Tidak,5.9,0.6,Kos,58.1,Tidak Lulus
+MHS0775,Perempuan,19,Teknik Informatika,5,8.6,92.2,2.76,6.6,2.5,Ya,5.0,3.3,Asrama,57.9,Tidak Lulus
+MHS0332,Laki-laki,21,Teknik Informatika,7,9.1,95.8,3.29,6.4,2.2,Ya,6.4,0.1,Rumah Orang Tua,68.8,Lulus
+MHS0234,Perempuan,23,Matematika,12,4.4,79.9,3.59,5.8,6.8,Tidak,400.0,8.1,Rumah Orang Tua,54.7,Tidak Lulus
+MHS0589,Laki-laki,22,Teknik Informatika,11,12.1,62.3,2.4,6.8,4.0,Tidak,6.2,1.3,Kos,56.4,Tidak Lulus
+MHS0476,Laki-laki,18,Sistem Informasi,1,4.0,100.0,2.43,7.3,2.4,Tidak,3.1,3.6,Kos,58.8,Tidak Lulus
+MHS0894,Laki-laki,22,Teknik Informatika,11,15.8,100.0,3.08,6.9,0.8,Ya,2.6,3.1,Kos,74.8,Lulus
+MHS0874,Perempuan,18,Sistem Informasi,3,8.7,59.5,3.14,,2.6,Tidak,7.5,2.5,Rumah Orang Tua,60.8,Lulus
+MHS0600,Laki-laki,21,Matematika,9,16.2,61.5,3.64,4.8,3.0,Ya,6.9,5.6,Rumah Orang Tua,63.3,Lulus
+MHS0422,Laki-laki,21,Teknik Informatika,7,21.2,87.8,3.12,5.6,2.6,Ya,14.0,10.9,Rumah Orang Tua,76.4,Lulus
+MHS0688,Laki-laki,19,Teknik Elektro,5,13.5,73.3,3.32,5.5,1.0,Tidak,2.8,4.5,Rumah Orang Tua,72.4,Lulus
+MHS0183,Laki-laki,22,Sistem Informasi,9,12.8,80.9,,5.8,0.2,Tidak,10.3,0.8,Kos,73.0,Lulus
+MHS0618,Perempuan,23,Sistem Informasi,11,7.5,91.1,2.42,8.2,5.2,Tidak,3.6,10.4,Kos,66.0,Lulus
+MHS0333,Perempuan,24,Matematika,14,2.1,71.5,2.92,6.7,2.1,Tidak,13.7,2.2,Kos,59.0,Tidak Lulus
+MHS0439,Perempuan,21,Statistika,9,10.8,96.4,3.03,5.2,1.4,Tidak,7.3,7.8,Kos,69.0,Lulus
+MHS0050,Laki-laki,19,Teknik Informatika,4,9.2,76.3,3.13,6.8,1.9,Tidak,4.2,6.7,Kos,58.8,Tidak Lulus
+MHS0006,Laki-laki,21,Teknik Elektro,7,15.6,83.2,,6.0,1.7,Tidak,,1.0,Rumah Orang Tua,79.3,Lulus
+MHS0530,Laki-laki,20,Sistem Informasi,6,4.8,90.3,3.81,8.2,2.9,Ya,4.6,3.5,Kos,64.4,Lulus
+MHS0235,Laki-laki,21,Teknik Elektro,7,31.6,,3.06,5.2,1.9,Ya,6.2,8.1,Kos,82.9,Lulus
+MHS0487,Perempuan,21,Sistem Informasi,8,21.4,90.6,3.17,5.2,2.6,Tidak,7.0,1.7,Kos,77.3,Lulus
+MHS0908,Laki-laki,19,Teknik Informatika,5,10.0,84.9,3.55,7.4,4.1,Ya,7.2,6.3,Kos,66.4,Lulus
+MHS0498,Perempuan,21,Matematika,8,14.3,78.5,2.49,8.9,3.5,Tidak,4.3,2.8,Kos,74.9,Lulus
+MHS0902,Laki-laki,20,Teknik Informatika,6,9.5,76.0,3.4,7.1,1.1,Tidak,16.2,5.9,Rumah Orang Tua,67.4,Lulus
+MHS0107,Laki-laki,23,Sistem Informasi,12,12.5,79.3,3.63,7.1,1.7,Tidak,4.8,17.0,Kos,73.5,Lulus
+MHS0444,Laki-laki,20,Teknik Informatika,5,6.5,62.2,3.21,6.3,1.6,Tidak,5.3,0.5,Kos,63.5,Lulus
+MHS0489,Perempuan,22,Matematika,11,10.1,100.0,3.31,7.1,3.9,Ya,5.5,0.6,Rumah Orang Tua,68.2,Lulus
+MHS0647,Laki-laki,22,Teknik Informatika,11,1.6,68.2,2.91,7.1,2.8,Tidak,,4.4,Asrama,56.8,Tidak Lulus
+MHS0013,Laki-laki,20,Matematika,6,27.6,70.7,3.36,5.3,5.7,Tidak,3.6,3.4,Rumah Orang Tua,74.3,Lulus
+MHS0739,Perempuan,20,Sistem Informasi,5,11.1,85.4,3.0,5.8,10.2,Tidak,9.3,1.5,Rumah Orang Tua,59.3,Tidak Lulus
+MHS0727,Laki-laki,20,Teknik Informatika,7,14.3,57.3,3.51,6.9,3.1,Tidak,6.8,3.3,Rumah Orang Tua,66.5,Lulus
+MHS0191,Laki-laki,20,Teknik Elektro,7,22.6,73.8,3.13,0.5,2.1,Tidak,8.9,0.4,Rumah Orang Tua,75.8,Lulus
+MHS0951,Perempuan,21,Sistem Informasi,8,11.1,76.6,2.42,,4.9,Tidak,3.3,33.7,Kos,51.4,Tidak Lulus
+MHS0833,Laki-laki,20,Sistem Informasi,6,12.8,84.6,,6.2,1.4,Tidak,,1.7,Rumah Orang Tua,61.6,Lulus
+MHS0283,Laki-laki,20,Teknik Informatika,5,9.3,,2.57,6.5,3.3,Tidak,2.4,1.0,Kos,56.0,Tidak Lulus
+MHS0030,Laki-laki,19,Matematika,3,14.8,71.6,3.22,5.2,2.3,Tidak,8.0,0.1,Kos,69.0,Lulus
+MHS0170,Laki-laki,20,Teknik Elektro,6,6.6,84.0,3.77,7.7,5.2,Tidak,8.6,1.6,Rumah Orang Tua,59.6,Tidak Lulus
+MHS0181,Perempuan,20,Teknik Elektro,6,10.7,89.6,3.33,7.3,2.9,Tidak,2.7,3.0,Rumah Orang Tua,67.3,Lulus
+MHS0101,P,21,Teknik Elektro,8,4.9,72.3,3.46,6.9,2.4,Ya,,,Kos,59.4,Tidak Lulus
+MHS0198,Perempuan,19,Teknik Elektro,3,10.0,87.7,2.76,7.9,3.6,Ya,6.5,7.4,Asrama,63.4,Lulus
+MHS0496,Perempuan,20,Sistem Informasi,7,10.0,83.7,,6.5,2.3,Tidak,6.9,2.4,Rumah Orang Tua,67.7,Lulus
+MHS0722,Laki-laki,23,Sistem Informasi,12,28.6,81.5,3.63,7.5,3.1,Tidak,8.9,7.7,Kos,88.7,Lulus
+MHS0648,Perempuan,20,Sistem Informasi,7,10.7,70.4,3.22,7.9,1.5,Ya,7.3,14.3,Asrama,65.1,Lulus
+MHS0984,Laki-laki,20,Sistem Informasi,7,4.7,92.0,,7.2,4.4,Tidak,9.3,1.9,Kos,55.4,Tidak Lulus
+MHS0938,Perempuan,20,Teknik Informatika,5,15.0,71.9,3.38,6.5,1.6,Tidak,13.6,1.2,Kos,66.1,Lulus
+MHS0711,Perempuan,21,Teknik Elektro,8,17.0,92.7,3.01,5.0,2.6,Tidak,8.6,5.8,Rumah Orang Tua,68.0,Lulus
+MHS0374,Perempuan,21,Sistem Informasi,7,9.0,86.7,3.88,5.1,2.1,Ya,3.6,0.6,Kos,60.7,Lulus
+MHS0679,Perempuan,21,Teknik Informatika,7,12.9,78.1,3.62,7.8,1.7,Tidak,5.5,5.0,Kos,74.0,Lulus
+MHS0889,Perempuan,22,Teknik Informatika,10,8.5,88.8,2.63,5.0,4.7,Tidak,4.7,,Kos,53.4,Tidak Lulus
+MHS0649,Perempuan,21,Matematika,7,12.5,69.0,3.16,8.2,4.2,Tidak,3.3,2.3,Rumah Orang Tua,72.1,Lulus
+MHS0798,Laki-laki,18,Teknik Informatika,2,16.9,73.7,2.71,7.0,2.3,Tidak,2.9,2.2,Rumah Orang Tua,60.1,Lulus
+MHS0848,Perempuan,22,Matematika,11,12.0,79.6,3.26,7.1,3.4,Tidak,4.4,0.6,Asrama,65.6,Lulus
+MHS0461,Perempuan,22,Matematika,11,8.6,81.4,3.37,6.5,2.7,Ya,7.3,4.3,Rumah Orang Tua,67.3,Lulus
+MHS0414,Perempuan,19,Teknik Elektro,4,7.6,58.3,3.01,5.1,12.0,Tidak,6.4,0.5,Kos,39.2,Tidak Lulus
+MHS0132,Laki-laki,20,Teknik Elektro,6,6.6,74.4,2.94,7.1,5.7,Ya,9.2,4.8,Kos,45.6,Tidak Lulus
+MHS0040,Laki-laki,21,Matematika,9,10.7,80.1,3.47,6.2,2.7,Tidak,1.9,1.4,Kos,67.0,Lulus
+MHS0435,Laki-laki,20,Teknik Informatika,6,12.6,91.4,2.6,6.6,0.8,Tidak,2.8,1.4,Rumah Orang Tua,66.8,Lulus
+MHS0216,Perempuan,19,Statistika,4,11.1,95.8,3.13,7.1,5.9,Ya,7.9,,Kos,58.5,Tidak Lulus
+MHS0556,Perempuan,20,Teknik Informatika,7,11.1,75.2,3.28,5.7,3.4,Ya,5.2,6.0,Kos,68.3,Lulus
+MHS0567,Laki-laki,23,Statistika,13,1.1,84.2,2.64,6.3,2.4,Tidak,6.8,9.7,Kos,50.5,Tidak Lulus
+MHS0763,Laki-laki,21,Teknik Informatika,7,18.9,94.1,3.21,6.3,4.2,Tidak,3.6,0.6,Kos,81.4,Lulus
+MHS0475,Laki-laki,23,Teknik Informatika,11,9.5,88.9,3.07,4.9,3.4,Ya,,3.0,Kos,58.4,Tidak Lulus
+MHS0457,Laki-laki,23,Teknik Elektro,12,9.9,97.4,3.03,5.5,3.2,Tidak,7.1,13.1,Kos,61.5,Lulus
+MHS0812,Laki-laki,18,Teknik Informatika,3,11.0,100.0,2.74,6.5,1.6,Tidak,7.1,9.6,Kos,73.9,Lulus
+MHS0261,Laki-laki,21,Teknik Informatika,9,14.2,77.4,,6.3,2.6,Ya,,17.3,Rumah Orang Tua,67.7,Lulus
+MHS0817,Perempuan,21,Teknik Elektro,7,11.4,69.6,3.87,6.9,1.6,Tidak,5.0,6.8,Asrama,76.9,Lulus
+MHS0036,Perempuan,21,Teknik Informatika,8,4.8,97.3,3.1,5.8,3.5,Tidak,6.2,1.6,Kos,60.0,Lulus
+MHS0828,Laki-laki,21,Teknik Informatika,7,6.3,84.9,2.77,6.6,2.9,Tidak,4.4,6.9,Kos,60.3,Lulus
+MHS0310,Perempuan,21,Teknik Informatika,8,12.5,82.4,3.01,6.3,1.4,Tidak,3.0,10.6,Rumah Orang Tua,62.2,Lulus
+MHS0277,Laki-laki,19,Sistem Informasi,3,14.8,74.7,2.93,5.9,2.6,Tidak,4.2,0.1,Kos,65.6,Lulus
+MHS0637,Laki-laki,24,Matematika,14,16.2,79.2,3.76,8.1,6.6,Ya,2.2,0.9,Kos,71.3,Lulus
+MHS0655,Perempuan,19,Teknik Elektro,5,7.1,100.0,3.27,6.3,0.9,Ya,11.2,0.2,Kos,69.7,Lulus
+MHS0623,Perempuan,19,Teknik Elektro,4,14.5,91.3,2.88,5.8,4.9,Ya,8.6,0.6,Kos,66.9,Lulus
+MHS0836,Laki-laki,23,Matematika,11,18.4,82.1,2.79,5.6,2.8,Tidak,7.2,5.8,Rumah Orang Tua,67.5,Lulus
+MHS0845,Laki-laki,20,Teknik Informatika,5,23.4,87.1,2.92,7.9,1.7,Ya,5.3,0.8,Rumah Orang Tua,76.5,Lulus
+MHS0394,Laki-laki,23,Matematika,11,13.4,77.0,3.08,3.4,5.0,Ya,10.2,0.6,Kos,61.9,Lulus
+MHS0947,Laki-laki,19,Statistika,3,16.0,70.7,3.7,6.7,5.3,Tidak,5.2,7.5,Kos,70.7,Lulus
+MHS0108,Laki-laki,21,Teknik Informatika,8,15.7,81.6,2.03,8.3,3.0,Tidak,10.0,0.4,Kos,63.9,Lulus
+MHS0954,Perempuan,19,Teknik Informatika,5,13.4,83.7,2.74,7.4,4.3,Tidak,7.4,1.1,Kos,71.7,Lulus
+MHS0525,L,20,Teknik Informatika,7,7.7,92.1,3.89,7.1,5.0,Tidak,6.2,15.4,Rumah Orang Tua,58.8,Tidak Lulus
+MHS0785,Laki-laki,22,Teknik Elektro,10,13.7,98.9,3.65,5.2,2.6,Tidak,7.9,6.2,Rumah Orang Tua,70.6,Lulus
+MHS0048,Perempuan,21,Teknik Informatika,8,13.1,93.1,3.72,7.3,0.6,Tidak,,1.4,Kos,75.8,Lulus
+MHS0204,Perempuan,21,Teknik Informatika,7,11.5,96.7,2.99,6.4,1.2,Ya,3.1,1.4,Kos,61.4,Lulus
+MHS0934,Perempuan,20,Statistika ,6,14.0,79.7,2.6,3.8,3.7,Tidak,3.2,3.5,Kos,63.4,Lulus
+MHS0632,Perempuan,21,Statistika,7,18.7,100.0,4.0,7.0,0.5,Tidak,,3.0,Kos,93.0,Lulus
+MHS0022,Perempuan,18,Sistem Informasi,1,20.4,81.4,3.09,5.2,4.0,Tidak,3.2,2.0,Rumah Orang Tua,69.8,Lulus
+MHS0403,Perempuan,21,Statistika,7,6.0,59.3,3.11,5.2,1.6,Tidak,7.7,9.0,Rumah Orang Tua,52.0,Tidak Lulus
+MHS0084,Perempuan,19,TEKNIK INFORMATIKA,4,21.8,70.7,3.59,5.6,4.0,Ya,3.1,1.8,Kos,69.6,Lulus
+MHS0131,Perempuan,22,Teknik Informatika,11,5.4,88.7,2.87,6.5,2.9,Ya,13.9,4.7,Kos,51.8,Tidak Lulus
+MHS0416,Perempuan,19,Teknik Informatika,4,19.1,72.8,2.89,7.8,3.9,Tidak,15.5,3.7,Asrama,76.3,Lulus
+MHS0994,Laki-laki,22,Teknik Informatika,11,5.9,69.8,2.39,6.1,1.9,Tidak,4.1,1.1,Kos,59.1,Tidak Lulus
+MHS0842,Perempuan,21,Statistika,8,9.6,74.2,2.84,6.5,1.0,Tidak,4.2,7.1,Rumah Orang Tua,61.3,Lulus
+MHS0742,Laki-laki,21,Teknik Informatika,7,8.3,76.3,3.16,7.2,2.1,Ya,10.2,,Kos,67.0,Lulus
+MHS0698,L,22,Matematika,9,8.5,76.8,2.38,7.2,1.0,Tidak,4.4,1.0,Kos,58.7,Tidak Lulus
+MHS0287,Laki-laki,19,Teknik Informatika,3,12.0,84.0,,5.8,2.0,Tidak,18.8,12.0,Asrama,78.5,Lulus
+MHS0124,Laki-laki,17,Sistem Informasi,1,12.6,100.0,3.04,8.2,3.6,Tidak,12.1,0.8,Kos,62.0,Lulus
+MHS0034,Perempuan,19,Sistem Informasi,4,13.8,88.8,2.77,6.8,1.7,Tidak,13.3,14.0,Rumah Orang Tua,70.7,Lulus
+MHS0986,Perempuan,23,Teknik Elektro,13,12.7,79.0,2.79,4.6,3.6,Tidak,8.3,2.6,Kos,57.8,Tidak Lulus
+MHS0517,Laki-laki,20,Sistem Informasi,6,6.9,84.9,2.91,7.1,3.8,Tidak,4.3,2.1,Rumah Orang Tua,56.8,Tidak Lulus
+MHS0924,Laki-laki,19,Sistem Informasi,5,16.8,96.3,2.26,7.4,2.0,Tidak,4.2,2.7,Asrama,72.4,Lulus
+MHS0020,Laki-laki,19,Matematika,3,11.1,66.0,,5.9,1.9,Tidak,4.2,10.4,Rumah Orang Tua,61.3,Lulus
+MHS0935,Perempuan,20,Statistika,5,13.1,91.7,3.13,4.0,4.6,Ya,7.7,0.7,Asrama,62.6,Lulus
+MHS0220,Laki-laki,21,Sistem Informasi,7,12.9,59.7,2.95,7.3,4.5,Ya,6.4,8.5,Kos,65.8,Lulus
+MHS0892,Perempuan,20,Teknik Elektro,5,6.2,88.6,3.07,5.5,6.3,Tidak,6.6,8.4,Kos,52.6,Tidak Lulus
+MHS0447,Perempuan,22,Teknik Elektro,9,25.3,87.5,2.53,7.4,1.8,Ya,7.8,5.1,Kos,79.8,Lulus
+MHS0482,Laki-laki,19,Teknik Informatika,4,10.7,83.6,3.25,5.8,2.6,Ya,21.9,3.2,Rumah Orang Tua,68.0,Lulus
+MHS0932,Perempuan,21,Sistem Informasi,7,6.4,75.0,3.02,5.0,5.4,Ya,9.0,3.5,Rumah Orang Tua,53.9,Tidak Lulus
+MHS0357,Perempuan,21,Statistika,7,6.9,97.7,2.44,6.3,1.5,Ya,6.1,0.9,Kos,60.8,Lulus
+MHS0662,Perempuan,20,Teknik Elektro,5,16.8,68.8,3.49,5.1,3.5,Tidak,6.5,15.4,Kos,64.1,Lulus
+MHS0225,Laki-laki,20,Teknik Informatika,6,8.8,63.8,2.66,4.0,4.4,Tidak,5.7,2.2,Rumah Orang Tua,52.5,Tidak Lulus
+MHS0760,Perempuan,20,Sistem Informasi,6,10.1,92.1,3.18,4.6,0.5,Tidak,7.2,1.4,Rumah Orang Tua,66.4,Lulus
+MHS0093,Laki-laki,21,Sistem Informasi,7,18.2,77.1,2.24,7.5,6.8,Ya,10.5,11.2,Kos,50.6,Tidak Lulus
+MHS0152,Perempuan,22,Teknik Elektro,9,7.2,89.5,2.49,6.9,3.4,Ya,8.7,,Rumah Orang Tua,50.8,Tidak Lulus
+MHS0993,Laki-laki,21,Statistika,9,4.2,62.8,2.18,7.1,4.7,Tidak,2.5,11.4,Rumah Orang Tua,43.9,Tidak Lulus
+MHS0318,Laki-laki,21,Matematika,7,1.8,95.6,2.5,7.0,3.5,Tidak,,21.2,Kos,50.9,Tidak Lulus
+MHS0449,Perempuan,20,Teknik Informatika,5,14.7,84.1,3.03,,1.9,Tidak,12.9,3.8,Rumah Orang Tua,78.1,Lulus
+MHS0804,Perempuan,22,Matematika,9,10.7,78.4,3.09,5.9,3.7,Ya,13.6,1.5,Rumah Orang Tua,60.0,Lulus
+MHS0746,Perempuan,22,Sistem Informasi,11,3.8,50.0,3.04,5.2,1.9,Tidak,,7.9,Kos,50.1,Tidak Lulus
+MHS0523,Perempuan,21,Teknik Informatika,7,10.8,96.7,3.1,6.2,0.8,Tidak,6.1,6.2,Kos,68.3,Lulus
+MHS0280,Perempuan,19,Teknik Elektro,3,12.5,95.7,3.84,6.2,0.5,Ya,6.5,2.9,Rumah Orang Tua,76.5,Lulus
+MHS0584,Laki-laki,21,Sistem Informasi,7,16.8,88.5,3.42,4.3,2.5,Ya,5.8,2.4,Kos,68.0,Lulus
+MHS0765,Laki-laki,19,TEKNIK ELEKTRO,5,18.8,84.8,2.84,8.3,3.8,Tidak,6.7,2.4,Kos,80.8,Lulus
+MHS0605,Laki-laki,23,Teknik Elektro,11,6.0,83.1,3.57,7.4,1.9,Ya,3.0,6.5,Kos,55.5,Tidak Lulus
+MHS0992,Perempuan,23,Statistika,12,12.4,78.2,3.47,5.4,5.4,tidak,5.8,1.6,Kos,63.3,Lulus
+MHS0350,Laki-laki,21,Teknik Informatika,7,10.2,89.0,3.96,5.8,3.4,Tidak,7.2,2.1,Rumah Orang Tua,73.8,Lulus
+MHS0928,Perempuan,22,Teknik Elektro,11,8.7,82.1,3.3,4.8,2.3,Tidak,11.0,5.4,Rumah Orang Tua,61.8,Lulus
+MHS0375,Perempuan,22,Teknik Informatika,10,28.2,100.0,,5.8,4.5,Tidak,8.9,0.3,Rumah Orang Tua,94.8,Lulus
+MHS0401,Laki-laki,17,Sistem Informasi,1,11.2,83.8,4.0,6.6,2.6,Tidak,4.7,2.4,Kos,73.0,Lulus
+MHS0705,Laki-laki,21,Teknik Informatika,9,4.1,91.4,,7.8,2.1,Ya,3.5,8.4,Kos,64.1,Lulus
+MHS0258,Perempuan,22,Teknik Informatika,10,7.2,92.2,3.8,5.6,4.8,Tidak,6.4,6.8,Asrama,75.3,Lulus
+MHS0945,Perempuan,22,Sistem Informasi,10,14.1,100.0,,5.8,2.3,Tidak,7.3,14.8,Kos,70.6,Lulus
+MHS0852,Perempuan,23,Teknik Informatika,11,12.6,100.0,3.26,7.1,3.9,Ya,8.1,1.1,Kos,70.9,Lulus
+MHS0073,Laki-laki,17,Teknik Elektro,1,10.6,91.4,3.09,5.2,2.9,Ya,8.8,0.1,Kos,52.8,Tidak Lulus
+MHS0196,Laki-laki,20,Teknik Informatika,5,12.4,80.8,3.04,7.3,3.5,Ya,3.3,1.8,Rumah Orang Tua,69.4,Lulus
+MHS0484,Laki-laki,22,Sistem Informasi,10,10.5,79.1,3.38,7.2,4.6,Tidak,,3.9,Kos,68.6,Lulus
+MHS0856,Perempuan,20,Sistem Informasi,7,13.6,100.0,2.95,6.1,3.4,Tidak,8.1,1.8,Kos,72.1,Lulus
+MHS0138,Laki-laki,21,Sistem Informasi,9,11.5,65.9,2.97,6.8,4.2,Ya,15.2,0.4,Rumah Orang Tua,56.1,Tidak Lulus
+MHS0495,Laki-laki,22,Statistika,11,12.0,82.7,2.94,5.7,1.3,Tidak,5.1,8.1,Rumah Orang Tua,63.4,Lulus
+MHS0773,Perempuan,20,Matematika,7,10.0,76.5,2.72,7.6,2.4,Ya,3.7,6.7,Kos,63.1,Lulus
+MHS0551,Laki-laki,22,Sistem Informasi,11,13.2,79.6,2.54,6.1,1.0,Tidak,8.4,3.3,Rumah Orang Tua,74.1,Lulus
+MHS0463,Laki-laki,20,Teknik Elektro,7,9.0,91.4,2.92,5.1,3.4,Ya,9.3,3.7,Asrama,71.5,Lulus
+MHS0202,Perempuan,21,Teknik Elektro,8,4.8,61.8,3.15,6.8,3.4,Ya,4.6,5.2,Asrama,53.0,Tidak Lulus
+MHS0313,Perempuan,20,Teknik Informatika,5,6.9,78.0,3.27,8.1,2.8,Ya,8.8,9.9,Rumah Orang Tua,60.8,Lulus
+MHS0291,Laki-laki,20,Statistika,6,4.9,86.6,3.06,8.0,2.8,Ya,12.4,0.5,Rumah Orang Tua,61.2,Lulus
+MHS0961,Perempuan,23,Sistem Informasi,12,10.5,90.7,3.07,8.0,2.4,Tidak,1.8,0.1,Asrama,75.3,Lulus
+MHS0190,Perempuan,19,Teknik Informatika,5,10.6,73.7,2.55,6.0,5.0,Tidak,11.8,4.8,Kos,48.2,Tidak Lulus
+MHS0764,Laki-laki,22,Teknik Informatika,11,10.6,64.6,3.31,5.1,0.2,Tidak,4.8,0.7,Rumah Orang Tua,59.4,Tidak Lulus
+MHS0113,Perempuan,20,Sistem Informasi,7,12.9,86.3,,6.9,2.5,Ya,,27.1,Rumah Orang Tua,55.1,Tidak Lulus
+MHS0950,Perempuan,20,Sistem Informasi,7,7.7,100.0,3.28,,4.3,Ya,5.8,6.8,Kos,50.4,Tidak Lulus
+MHS0184,Laki-laki,21,Sistem Informasi,8,1.8,66.9,,7.2,3.4,Tidak,9.5,0.2,Asrama,48.4,Tidak Lulus
+MHS0153,Laki-laki,19,TEKNIK INFORMATIKA,3,15.0,95.5,2.87,6.4,4.6,Ya,4.7,3.8,Kos,65.0,Lulus
+MHS0825,Perempuan,19,Statistika,3,19.8,71.8,2.54,6.6,0.7,Tidak,6.2,6.0,Kos,72.8,Lulus
+MHS0326,Perempuan,22,Matematika,9,7.2,64.0,3.3,7.1,4.2,Tidak,6.4,1.6,Asrama,54.0,Tidak Lulus
+MHS0704,Perempuan,20,Teknik Elektro,6,5.9,64.6,3.22,4.7,1.0,Tidak,9.1,6.2,Kos,57.9,Tidak Lulus
+MHS0045,Laki-laki,24,Statistika,13,5.0,91.7,3.28,6.0,1.2,Tidak,9.9,1.4,Rumah Orang Tua,59.4,Tidak Lulus
+MHS0445,Laki-laki,21,Teknik Informatika,9,18.2,78.6,,6.2,2.3,Tidak,3.6,7.2,Rumah Orang Tua,74.3,Lulus
+MHS0788,Perempuan,19,Sistem Informasi,4,9.6,74.5,3.04,7.8,1.3,Ya,3.3,2.1,Asrama,60.3,Lulus
+MHS0007,Perempuan,20,Statistika,6,15.7,94.1,3.65,6.2,3.2,Tidak,12.0,2.4,Kos,80.0,Lulus
+MHS0251,Laki-laki,20,Matematika,5,12.2,82.3,2.52,7.5,3.8,Tidak,5.3,,Kos,58.9,Tidak Lulus
+MHS0824,Perempuan,21,Matematika,7,26.1,97.1,3.4,5.9,2.9,Ya,2.2,12.5,Rumah Orang Tua,90.4,Lulus
+MHS0076,Laki-laki,22,Teknik Informatika,10,8.1,120.0,3.4,6.6,0.6,Tidak,7.8,0.6,Kos,65.8,Lulus
+MHS0513,Perempuan,22,Teknik Informatika,11,10.7,63.0,3.69,,1.5,Tidak,,0.9,Kos,72.6,Lulus
+MHS0941,Laki-laki,19,Teknik Informatika,4,22.2,78.9,2.94,,2.1,Ya,10.4,4.8,Rumah Orang Tua,82.2,Lulus
+MHS0392,Perempuan,20,Teknik Informatika,5,40.0,92.6,2.85,7.2,6.8,Tidak,,4.6,Kos,86.1,Lulus
+MHS0896,Laki-laki,20,Teknik Elektro,6,7.4,75.6,2.93,3.7,2.0,Tidak,11.0,6.8,Rumah Orang Tua,56.1,Tidak Lulus
+MHS0433,Laki-laki,21,Matematika,9,7.4,71.9,2.82,6.0,2.7,Tidak,5.6,0.7,Kos,61.4,Lulus
+MHS0069,Laki-laki,20,Teknik Informatika,5,3.3,78.9,3.42,4.9,2.5,Tidak,5.2,2.4,Kos,58.1,Tidak Lulus
+MHS0168,Perempuan,19,Statistika,3,13.6,70.1,3.08,8.6,1.7,Tidak,,7.3,Kos,72.8,Lulus
+MHS0905,Perempuan,19,Teknik Elektro,5,27.4,80.5,3.51,6.2,4.7,Tidak,3.4,5.5,Rumah Orang Tua,86.3,Lulus
+MHS0731,Perempuan,21,Sistem Informasi,8,12.4,67.8,3.6,5.6,1.6,Tidak,7.5,1.6,Kos,71.2,Lulus
+MHS0555,Laki-laki,20,Teknik Informatika,5,6.3,77.3,3.25,8.3,3.9,Ya,7.3,2.0,Rumah Orang Tua,68.0,Lulus
+MHS0367,Laki-laki,22,Statistika,9,7.2,73.3,2.35,6.0,2.4,Tidak,4.3,6.8,Kos,64.7,Lulus
+MHS0346,Perempuan,20,Statistika,6,13.1,,3.04,4.8,3.7,Tidak,2.7,2.6,Rumah Orang Tua,68.5,Lulus
+MHS0585,Perempuan,21,Teknik Elektro,8,13.0,70.0,2.34,6.5,2.0,Tidak,7.9,0.6,Kos,65.4,Lulus
+MHS0536,Laki-laki,22,Teknik Informatika,10,6.2,91.4,3.27,6.8,4.0,Ya,10.8,,Kos,56.9,Tidak Lulus
+MHS0399,Perempuan,21,Sistem Informasi,7,12.2,77.4,2.99,6.4,5.4,Tidak,6.6,1.6,Kos,58.0,Tidak Lulus
+MHS0186,Perempuan,20,Matematika,6,13.5,83.2,3.04,5.1,2.1,Ya,4.3,2.7,Kos,64.9,Lulus
+MHS0349,Laki-laki,20,Matematika,6,6.2,96.4,3.23,7.8,1.0,Ya,6.7,5.7,Rumah Orang Tua,70.1,Lulus
+MHS0616,Laki-laki,24,Statistika,14,6.4,,2.62,4.9,0.4,Ya,2.5,7.1,Rumah Orang Tua,53.3,Tidak Lulus
+MHS0920,P,21,Matematika,9,14.1,71.9,3.37,6.4,0.9,Ya,,0.6,Rumah Orang Tua,74.9,Lulus
+MHS0212,Perempuan,24,Matematika,14,5.4,93.3,2.38,5.9,1.3,Tidak,3.9,0.2,Kos,61.7,Lulus
+MHS0580,Perempuan,20,Sistem Informasi,6,10.0,81.4,2.63,7.8,2.6,Tidak,15.4,9.1,Rumah Orang Tua,59.6,Tidak Lulus
+MHS0503,Laki-laki,20,Teknik Elektro,6,2.7,66.9,2.94,6.0,1.1,Tidak,6.3,0.7,Kos,46.8,Tidak Lulus
+MHS0538,Perempuan,22,Teknik Informatika,11,10.1,96.9,2.95,6.2,1.6,Tidak,15.8,0.4,Rumah Orang Tua,62.0,Lulus
+MHS0197,Laki-laki,22,Matematika,11,6.3,82.4,3.49,6.1,7.1,Ya,11.4,1.5,Kos,57.9,Tidak Lulus
+MHS0176,Perempuan,21,Teknik Informatika,7,8.5,73.4,2.95,5.2,2.7,Tidak,5.3,0.3,Kos,51.9,Tidak Lulus
